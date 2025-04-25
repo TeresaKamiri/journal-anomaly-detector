@@ -43,7 +43,7 @@ This project uses an autoencoder-based deep learning model to detect anomalies i
 
 You need the following libraries and tools to run this project:
 
-- Python 3.x
+- Python 3.10
 - TensorFlow or Keras
 - Scikit-learn
 - Pandas
