@@ -4,7 +4,7 @@
    - You **start by training the autoencoder model** if you haven't already done so. This process involves:
      - Preprocessing the journal entries.
      - Training an autoencoder model to reconstruct the input data.
-     - Saving the trained model (`autoencoder_model.h5`) and the scaler (`scaler.pkl`) for later use in anomaly detection.
+     - Saving the trained model (`autoencoder_model.keras`), the scaler (`scaler.pkl`) and the featured names (`feature_names.pkl"`) for later use in anomaly detection.
    
 2. **Anomaly Detection**  
    - Once the model is trained, the next step is **detecting anomalies** in the journal entries.
