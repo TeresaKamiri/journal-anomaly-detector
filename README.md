@@ -54,6 +54,8 @@ You need the following libraries and tools to run this project:
 
 ## Setup Instructions
 
+### Step 1: Create and Activate a Virtual Environment
+
 1. Clone this repository to your local machine:
 
    ```bash
@@ -66,15 +68,36 @@ You need the following libraries and tools to run this project:
    cd journal-anomaly-detector
    ```
 
-3. Install the required Python dependencies:
+3. Create a Python virtual environment:
 
    ```bash
-   pip install -r requirements.txt
+   python3.10 -m venv ml-venv
    ```
 
-4. Prepare your dataset. Place the `journal_entries.csv` file in the `data/` directory.
+4. Activate the virtual environment:
 
-5. If needed, run the preprocessing and exploratory analysis steps in `notebooks/eda_preprocessing.py`.
+   - **On Windows:**
+     ```bash
+     .\ml-venv\Scripts\activate
+     ```
+   - **On macOS/Linux:**
+     ```bash
+     source ml-venv/bin/activate
+     ```
+
+### Step 2: Install the Required Dependencies
+
+With the virtual environment activated, install the required Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 3: Prepare Your Dataset
+
+Place the `journal_entries.csv` file in the `data/` directory.
+
+If needed, run the preprocessing and exploratory analysis steps in `notebooks/eda_preprocessing.py`.
 
 ## Usage 
 Refer to the step_by_step.md file
