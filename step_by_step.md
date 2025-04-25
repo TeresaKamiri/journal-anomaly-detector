@@ -1,4 +1,3 @@
-
 ### **Program Flow Overview**
 
 1. **Data Preparation and Model Training**  
@@ -109,9 +108,9 @@ Finally, you can use **Streamlit** to create a user-friendly interface for anoma
   ```
 
 - **Run the Streamlit app**:
-  - In the terminal, navigate to the `dashboard/` directory and run:
+  - In the terminal, navigate to the `root/` directory and run:
     ```bash
-    streamlit run app.py
+    streamlit run dashboard/app.py
     ```
 
 This will start the Streamlit app and open it in your browser. You can:
