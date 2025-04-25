@@ -60,41 +60,16 @@ If you haven't already trained the model, follow these steps:
 
 Once the model is trained, you can start **detecting anomalies**:
 
-- **Create a script to detect anomalies** by running the `detect_anomalies` function from `detect_anomalies.py`.
-- Example of running it:
-  ```python
-  from src.detect_anomalies import detect_anomalies
-
-  data_path = "../data/journal_entries.csv"
-  detected_df, threshold = detect_anomalies(data_path)
-
-  # The detected_df contains anomaly scores and the "is_anomaly" flag
-  print(detected_df.head())
-  ```
+- **Use the script to detect anomalies** by running the `detect_anomalies` function from `detect_anomalies.py`.
 
 This function will:
 1. Read the `journal_entries.csv` file.
 2. Preprocess the data and scale it using the saved scaler.
 3. Use the trained autoencoder to detect anomalies by comparing the reconstruction error against a threshold.
 
-The output will be a dataframe (`detected_df`) with columns:
-- `anomaly_score`: The reconstruction error.
-- `is_anomaly`: A boolean flag indicating whether it's an anomaly or not.
-
 ### 3. **Explain Anomalies** (`explain_anomalies.py`)
 
 Once anomalies are detected, you can **explain them using SHAP**:
-
-- **Run the explanation**:
-  ```python
-  from src.explain_anomalies import explain
-
-  shap_values = explain(detected_df)
-
-  # Visualize SHAP explanations (requires SHAP library)
-  shap.initjs()
-  shap.force_plot(shap_values.base_values[0], shap_values.values[0], detected_df.iloc[0])
-  ```
 
 This will give you an interactive SHAP plot that shows how each feature in the data contributes to the anomaly detection decision.
 
@@ -141,7 +116,7 @@ This will start the Streamlit app and open it in your browser. You can:
 
 ---
 
-### **End-to-End Example**:
+### **End-to-End process**:
 
 1. **Step 1**: Train the model (if not already trained):
    ```bash
