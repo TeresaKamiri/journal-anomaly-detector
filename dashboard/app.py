@@ -163,58 +163,6 @@ if uploaded_file is not None:
     else:
         st.warning("No SHAP values available.")
 
-
-    # SHAP Explanation
-    # st.subheader("🧠 SHAP Explanations")
-    # try:
-    #     with st.spinner("🔍 Computing SHAP values..."):
-    #         shap_values = explainer.explain(explanation_df, top_k=top_k)
-    #     logging.info("SHAP values generated.")
-    # except Exception as e:
-    #     logging.error(f"SHAP explanation failed: {e}")
-    #     st.error("Failed to generate SHAP values.")
-    #     shap_values = None
-
-    # if shap_values is not None:
-    #     shap.initjs()
-
-    #     # Use only the features used in SHAP (top_k rows only)
-    #     features_only = explanation_df.drop(columns=["anomaly_score", "is_anomaly", "confidence"], errors='ignore')
-    #     features_only = features_only.iloc[:shap_values.values.shape[0]]
-
-    #     sample_indices = features_only.index.tolist()
-
-    #     if sample_indices:
-    #         selected_index = st.selectbox("Choose an entry to explain", sample_indices)
-    #         sample_index = features_only.index.get_loc(selected_index)
-
-    #         if shap_values.values.ndim != 2 or sample_index >= shap_values.values.shape[0]:
-    #             st.warning("Selected index is out of bounds for SHAP values.")
-    #         else:
-    #             try:
-    #                 force_plot = shap.force_plot(
-    #                     shap_values.base_values[sample_index],
-    #                     shap_values.values[sample_index],
-    #                     features_only.iloc[sample_index]
-    #                 )
-    #                 st_shap(force_plot)
-    #                 logging.info(f"Displayed SHAP force plot for index {sample_index}")
-    #             except Exception as e:
-    #                 logging.error(f"SHAP force plot error: {e}")
-    #                 st.error("SHAP force plot failed.")
-
-    #     st.subheader("📈 SHAP Summary Plot")
-    #     try:
-    #         fig_summary = plt.figure(figsize=(10, 6))
-    #         shap.summary_plot(shap_values.values, features_only, show=False)
-    #         st.pyplot(fig_summary)
-    #         logging.info("Displayed SHAP summary plot.")
-    #     except Exception as e:
-    #         logging.error(f"SHAP summary plot failed: {e}")
-    #         st.error("SHAP summary plot failed.")
-    # else:
-    #     st.warning("No SHAP values available.")
-
 # Cleanup logging
 for handler in logging.root.handlers[:]:
     handler.close()
