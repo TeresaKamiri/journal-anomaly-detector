@@ -1,0 +1,16 @@
+Dataset,Model,precision,recall,f1,roc_auc
+synthetic_labeled_v1.csv,KNN,0.12,0.12,0.12,0.6326736842105263
+synthetic_labeled_v1.csv,Random Forest,1.0,1.0,1.0,1.0
+synthetic_labeled_v1.csv,Autoencoder,0.14,0.14,0.14,0.6270526315789474
+synthetic_labeled_v2.csv,KNN,0.08,0.04,0.05333333333333334,0.6045555555555555
+synthetic_labeled_v2.csv,Random Forest,1.0,1.0,1.0,1.0
+synthetic_labeled_v2.csv,Autoencoder,0.36,0.18,0.24,0.6059111111111111
+synthetic_labeled_v3.csv,KNN,0.16,0.04,0.064,0.5082875
+synthetic_labeled_v3.csv,Random Forest,1.0,1.0,1.0,1.0
+synthetic_labeled_v3.csv,Autoencoder,0.7,0.175,0.28,0.61970625
+synthetic_labeled_v4.csv,KNN,0.08,0.08,0.08,0.6547999999999999
+synthetic_labeled_v4.csv,Random Forest,1.0,1.0,1.0,1.0
+synthetic_labeled_v4.csv,Autoencoder,0.14,0.14,0.14,0.6432631578947368
+synthetic_labeled_v5.csv,KNN,0.0,0.0,0.0,0.5722526315789473
+synthetic_labeled_v5.csv,Random Forest,1.0,1.0,1.0,1.0
+synthetic_labeled_v5.csv,Autoencoder,0.14,0.14,0.14,0.5427578947368421
