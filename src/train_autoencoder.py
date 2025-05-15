@@ -5,23 +5,32 @@ from tensorflow.keras.layers import Dense
 import joblib
 import sys
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+data_file = BASE_DIR / "data" / "synthetic_versions" / "synthetic_labeled_v1.csv"
+preprocesed_file = BASE_DIR / "data" / "preprocessed_journal_entries.csv"
+scaler_pkl = BASE_DIR / "models" / "scaler.pkl"
+keras_autoencoder = BASE_DIR / "models" / "autoencoder_model.keras"
+feature_names = BASE_DIR / "models" / "feature_names.pkl"
 
 try:
-    df = pd.read_csv("../data/journal_entries.csv")
+    df = pd.read_csv(data_file)
+
+    # df = pd.read_csv("../data/journal_entries.csv")
 
     # Preprocess data (one-hot encoding)
     X = pd.get_dummies(df.select_dtypes(include=[int, float, object]))  # Handle categoricals
     
     # Save the preprocessed data to CSV
-    X.to_csv("../data/preprocessed_journal_entries.csv", index=False)
+    X.to_csv(preprocesed_file, index=False)
     
     # Scale the data
     scaler = StandardScaler()
     X_scaled = scaler.fit_transform(X)
 
     # Save the scaler to disk
-    joblib.dump(scaler, "../models/scaler.pkl")
+    joblib.dump(scaler, scaler_pkl)
 
     # Build the autoencoder model
     model = Sequential([
@@ -38,14 +47,14 @@ try:
     model.fit(X_scaled, X_scaled, epochs=50, batch_size=32, validation_split=0.1)
 
     # Save the model in .keras format
-    model.save("../models/autoencoder_model.keras")
+    model.save(keras_autoencoder)
     print("Model saved successfully as .keras file")
 
     # Verify the saved model by loading it back
-    loaded_model = load_model("../models/autoencoder_model.keras")
+    loaded_model = load_model(keras_autoencoder)
     print("Model loaded successfully")
 
-    with open("../models/feature_names.pkl", "wb") as f:
+    with open(feature_names, "wb") as f:
         joblib.dump(X.columns.tolist(), f)
     print("Feature names saved.")
 

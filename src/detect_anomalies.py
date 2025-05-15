@@ -4,12 +4,15 @@ from tensorflow.keras.models import load_model
 import numpy as np
 import sys
 import os
+from pathlib import Path
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+BASE_DIR = Path(__file__).resolve().parent.parent
+anomalies_file = BASE_DIR / "anomalies" / "anomalies_found.csv"
+expected_features_file = BASE_DIR / "models" / "feature_names.pkl"
+scaler_pkl_file = BASE_DIR / "models" / "scaler.pkl"
+keras_model = BASE_DIR / "models" / "autoencoder_model.keras"
 
-#def detect_anomalies(df, threshold=None, save_path="C:/Users/hp/Desktop/Peppper ML/audit_anomaly_detector_project_v2/anomalies/anomalies_found.csv"): # you can use hardcoded paths
-
-def detect_anomalies(df, threshold=None, save_path="../anomalies/anomalies_found.csv"):
+def detect_anomalies(df, threshold=None, save_path=anomalies_file):
     try:
         print("Starting anomaly detection...")
 
@@ -23,15 +26,15 @@ def detect_anomalies(df, threshold=None, save_path="../anomalies/anomalies_found
         X = pd.get_dummies(df)
 
         # Align with expected features
-        expected_features = joblib.load("C:/Users/hp/Desktop/Peppper ML/audit_anomaly_detector_project_v2/models/feature_names.pkl")
+        expected_features = joblib.load(expected_features_file)
         X = X.reindex(columns=expected_features, fill_value=0)
 
         # Load scaler and transform
-        scaler = joblib.load("C:/Users/hp/Desktop/Peppper ML/audit_anomaly_detector_project_v2/models/scaler.pkl")
+        scaler = joblib.load(scaler_pkl_file)
         X_scaled = scaler.transform(X)
 
         # Load model
-        model = load_model("C:/Users/hp/Desktop/Peppper ML/audit_anomaly_detector_project_v2/models/autoencoder_model.keras")
+        model = load_model(keras_model)
 
         # Predict and calculate anomaly scores
         X_pred = model.predict(X_scaled)
@@ -57,13 +60,4 @@ def detect_anomalies(df, threshold=None, save_path="../anomalies/anomalies_found
     except Exception as e:
         print(f"❌ Error in anomaly detection: {e}")
         return None
-
-
-# file_path = "C:/Users/hp/Desktop/Peppper ML/audit_anomaly_detector_project_v2/data/journal_entries.csv"
-# df = pd.read_csv(file_path)
-
-# # Define threshold
-# threshold = 0.95  # or any value you'd like to use
-
-# # Call the anomaly detection function
-# detected_df, threshold = detect_anomalies(df, threshold)
+        
