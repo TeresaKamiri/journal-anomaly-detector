@@ -1,0 +1,1001 @@
+amount,vendor,account,posting_date,user_id,description,label
+1536.59,Vendor_9,Sales,2023-10-05,1019,Regular business transaction,0
+1130.95,Vendor_11,HR,2023-06-19,1010,Regular business transaction,0
+892.57,Vendor_13,Legal,2023-01-27,1081,Regular business transaction,0
+933.36,Vendor_3,IT,2023-11-13,1001,Regular business transaction,0
+511.72,Vendor_15,Marketing,2023-04-17,1024,Regular business transaction,0
+1119.37,Vendor_8,Sales,2023-06-21,1033,Regular business transaction,0
+1208.89,Vendor_18,Legal,2023-07-26,1028,Regular business transaction,0
+1169.49,Vendor_1,Sales,2023-10-02,1063,Regular business transaction,0
+451.18,Vendor_6,Legal,2023-06-24,1033,Regular business transaction,0
+521.04,Vendor_18,Marketing,2023-12-08,1074,Regular business transaction,0
+1189.58,Vendor_17,Sales,2023-06-10,1016,Regular business transaction,0
+1429.15,Vendor_19,IT,2023-11-28,1055,Regular business transaction,0
+799.96,Vendor_17,Legal,2023-10-17,1052,Regular business transaction,0
+940.73,Vendor_18,Finance,2023-08-31,1002,Regular business transaction,0
+1417.11,Vendor_13,Sales,2023-11-12,1074,Regular business transaction,0
+723.2,Vendor_17,Finance,2023-04-02,1021,Regular business transaction,0
+1253.75,Vendor_1,Sales,2023-01-10,1033,Regular business transaction,0
+441.73,Vendor_16,Finance,2023-08-05,1055,Regular business transaction,0
+1223.62,Vendor_17,Finance,2023-11-21,1044,Regular business transaction,0
+685.35,Vendor_13,HR,2023-10-03,1016,Regular business transaction,0
+869.35,Vendor_2,IT,2023-01-03,1087,Regular business transaction,0
+887.03,Vendor_4,Finance,2023-03-04,1081,Regular business transaction,0
+1131.38,Vendor_2,HR,2023-02-02,1092,Regular business transaction,0
+1581.69,Vendor_17,HR,2023-11-06,1008,Regular business transaction,0
+1145.14,Vendor_13,HR,2023-04-11,1009,Regular business transaction,0
+1202.86,Vendor_19,Finance,2023-05-14,1084,Regular business transaction,0
+1381.51,Vendor_18,Marketing,2023-02-02,1013,Regular business transaction,0
+1052.78,Vendor_13,Finance,2023-10-20,1042,Regular business transaction,0
+992.77,Vendor_13,Admin,2023-05-26,1032,Regular business transaction,0
+733.4,Vendor_8,Finance,2023-12-18,1032,Regular business transaction,0
+720.01,Vendor_20,IT,2023-07-27,1092,Regular business transaction,0
+1080.92,Vendor_12,Admin,2023-09-10,1017,Regular business transaction,0
+1129.08,Vendor_5,Admin,2023-03-05,1041,Regular business transaction,0
+919.43,Vendor_14,Legal,2023-04-07,1088,Regular business transaction,0
+1370.04,Vendor_16,Admin,2023-02-05,1085,Regular business transaction,0
+1044.7,Vendor_18,Sales,2023-08-06,1034,Regular business transaction,0
+1317.63,Vendor_5,Legal,2023-08-10,1000,Regular business transaction,0
+1251.58,Vendor_14,Marketing,2023-08-15,1021,Regular business transaction,0
+941.74,Vendor_11,Admin,2023-06-08,1076,Regular business transaction,0
+749.2,Vendor_12,Admin,2023-06-17,1057,Regular business transaction,0
+1067.73,Vendor_13,Legal,2023-04-05,1041,Regular business transaction,0
+1086.11,Vendor_8,Finance,2023-02-04,1015,Regular business transaction,0
+949.57,Vendor_9,Legal,2023-01-27,1035,Regular business transaction,0
+1572.78,Vendor_3,HR,2023-06-01,1050,Regular business transaction,0
+1216.01,Vendor_1,Admin,2023-05-03,1083,Regular business transaction,0
+1462.75,Vendor_4,Legal,2023-10-05,1023,Regular business transaction,0
+769.76,Vendor_14,Admin,2023-08-20,1039,Regular business transaction,0
+1368.35,Vendor_1,Finance,2023-01-05,1042,Regular business transaction,0
+633.73,Vendor_13,Sales,2023-02-05,1077,Regular business transaction,0
+1017.88,Vendor_5,IT,2023-04-04,1069,Regular business transaction,0
+1253.79,Vendor_7,HR,2023-10-29,1032,Regular business transaction,0
+908.2,Vendor_2,Sales,2023-07-15,1087,Regular business transaction,0
+994.19,Vendor_15,Legal,2023-05-31,1076,Regular business transaction,0
+1043.06,Vendor_12,Admin,2023-08-14,1079,Regular business transaction,0
+1396.41,Vendor_16,Sales,2023-03-17,1005,Regular business transaction,0
+860.08,Vendor_16,Sales,2023-02-08,1050,Regular business transaction,0
+973.14,Vendor_13,Marketing,2023-10-20,1007,Regular business transaction,0
+1053.16,Vendor_11,Marketing,2023-04-10,1010,Regular business transaction,0
+390.88,Vendor_15,Legal,2023-05-03,1082,Regular business transaction,0
+711.77,Vendor_13,Finance,2023-04-24,1003,Regular business transaction,0
+1200.43,Vendor_11,Finance,2023-09-18,1021,Regular business transaction,0
+958.77,Vendor_9,HR,2023-01-02,1018,Regular business transaction,0
+858.44,Vendor_12,HR,2023-07-22,1089,Regular business transaction,0
+1034.49,Vendor_20,Legal,2023-06-17,1098,Regular business transaction,0
+1147.42,Vendor_17,HR,2023-08-12,1097,Regular business transaction,0
+1262.58,Vendor_1,Finance,2023-11-07,1078,Regular business transaction,0
+928.03,Vendor_14,Sales,2023-12-07,1018,Regular business transaction,0
+1078.47,Vendor_11,Sales,2023-12-12,1044,Regular business transaction,0
+862.05,Vendor_12,IT,2023-10-08,1090,Regular business transaction,0
+1597.22,Vendor_5,Finance,2023-02-26,1000,Regular business transaction,0
+1117.94,Vendor_6,HR,2023-04-03,1009,Regular business transaction,0
+927.58,Vendor_7,Finance,2023-04-07,1083,Regular business transaction,0
+1042.44,Vendor_15,Admin,2023-08-30,1021,Regular business transaction,0
+1066.58,Vendor_18,Sales,2023-10-09,1099,Regular business transaction,0
+1113.44,Vendor_9,HR,2023-04-28,1020,Regular business transaction,0
+980.47,Vendor_4,Legal,2023-01-30,1032,Regular business transaction,0
+1040.05,Vendor_4,HR,2023-08-30,1023,Regular business transaction,0
+613.22,Vendor_10,Marketing,2023-01-16,1013,Regular business transaction,0
+1066.74,Vendor_18,Legal,2023-03-08,1030,Regular business transaction,0
+788.46,Vendor_3,Marketing,2023-10-03,1058,Regular business transaction,0
+957.81,Vendor_9,Admin,2023-07-28,1094,Regular business transaction,0
+1324.04,Vendor_4,Marketing,2023-08-12,1087,Regular business transaction,0
+1244.41,Vendor_19,Finance,2023-10-26,1024,Regular business transaction,0
+1424.66,Vendor_13,Sales,2023-09-18,1040,Regular business transaction,0
+1447.94,Vendor_13,Finance,2023-09-11,1048,Regular business transaction,0
+1329.8,Vendor_19,IT,2023-11-23,1018,Regular business transaction,0
+1044.86,Vendor_2,Legal,2023-11-07,1025,Regular business transaction,0
+1003.39,Vendor_6,Legal,2023-03-01,1029,Regular business transaction,0
+1485.77,Vendor_15,Admin,2023-12-05,1033,Regular business transaction,0
+1153.93,Vendor_2,Finance,2023-12-11,1056,Regular business transaction,0
+1510.45,Vendor_8,Admin,2023-10-17,1057,Regular business transaction,0
+542.07,Vendor_7,HR,2023-09-08,1054,Regular business transaction,0
+816.35,Vendor_16,Sales,2023-03-21,1096,Regular business transaction,0
+923.76,Vendor_2,Legal,2023-09-08,1020,Regular business transaction,0
+1022.03,Vendor_12,Sales,2023-03-12,1012,Regular business transaction,0
+1001.76,Vendor_1,HR,2023-01-09,1016,Regular business transaction,0
+1217.8,Vendor_2,Legal,2023-07-07,1050,Regular business transaction,0
+778.09,Vendor_9,HR,2023-06-29,1062,Regular business transaction,0
+473.87,Vendor_13,Finance,2023-11-03,1057,Regular business transaction,0
+465.2,Vendor_1,HR,2023-07-20,1019,Regular business transaction,0
+745.12,Vendor_6,HR,2023-10-24,1003,Regular business transaction,0
+551.94,Vendor_20,Finance,2023-02-08,1030,Regular business transaction,0
+1110.57,Vendor_2,IT,2023-11-24,1012,Regular business transaction,0
+802.7,Vendor_2,HR,2023-10-14,1064,Regular business transaction,0
+820.0,Vendor_10,HR,2023-11-23,1049,Regular business transaction,0
+988.58,Vendor_1,IT,2023-11-14,1096,Regular business transaction,0
+602.65,Vendor_13,Finance,2023-02-13,1046,Regular business transaction,0
+315.46,Vendor_14,Admin,2023-07-08,1033,Regular business transaction,0
+1107.67,Vendor_8,IT,2023-05-01,1066,Regular business transaction,0
+639.61,Vendor_4,Marketing,2023-05-01,1028,Regular business transaction,0
+765.18,Vendor_7,Marketing,2023-06-04,1075,Regular business transaction,0
+1388.63,Vendor_4,Finance,2023-12-18,1066,Regular business transaction,0
+1389.36,Vendor_2,HR,2023-02-26,1017,Regular business transaction,0
+545.44,Vendor_16,Legal,2023-03-10,1032,Regular business transaction,0
+1129.93,Vendor_3,Marketing,2023-03-01,1017,Regular business transaction,0
+764.68,Vendor_18,Admin,2023-03-02,1095,Regular business transaction,0
+1326.67,Vendor_4,IT,2023-08-18,1035,Regular business transaction,0
+954.17,Vendor_19,Legal,2023-08-30,1099,Regular business transaction,0
+738.95,Vendor_20,HR,2023-07-03,1033,Regular business transaction,0
+928.11,Vendor_20,Finance,2023-07-01,1042,Regular business transaction,0
+1041.64,Vendor_14,Admin,2023-11-30,1093,Regular business transaction,0
+819.03,Vendor_2,IT,2023-08-01,1031,Regular business transaction,0
+658.27,Vendor_7,Marketing,2023-10-22,1005,Regular business transaction,0
+603.39,Vendor_13,HR,2023-01-19,1095,Regular business transaction,0
+769.59,Vendor_13,Legal,2023-12-30,1095,Regular business transaction,0
+1083.94,Vendor_5,IT,2023-04-23,1098,Regular business transaction,0
+197.04,Vendor_8,Finance,2023-09-16,1033,Regular business transaction,0
+870.97,Vendor_15,Legal,2023-01-07,1054,Regular business transaction,0
+1361.54,Vendor_14,Admin,2023-02-14,1035,Regular business transaction,0
+930.74,Vendor_10,Legal,2023-03-16,1001,Regular business transaction,0
+1072.25,Vendor_14,HR,2023-02-17,1018,Regular business transaction,0
+925.96,Vendor_2,Admin,2023-04-24,1058,Regular business transaction,0
+739.21,Vendor_19,IT,2023-09-29,1009,Regular business transaction,0
+1164.8,Vendor_14,Admin,2023-03-18,1077,Regular business transaction,0
+1315.45,Vendor_19,IT,2023-06-22,1091,Regular business transaction,0
+1232.66,Vendor_20,Finance,2023-08-19,1023,Regular business transaction,0
+1007.97,Vendor_7,Legal,2023-08-06,1095,Regular business transaction,0
+1025.31,Vendor_13,Admin,2023-04-22,1073,Regular business transaction,0
+650.74,Vendor_14,Admin,2023-11-16,1036,Regular business transaction,0
+902.53,Vendor_6,IT,2023-09-05,1042,Regular business transaction,0
+1491.72,Vendor_16,Admin,2023-02-08,1011,Regular business transaction,0
+541.4,Vendor_14,HR,2023-04-17,1045,Regular business transaction,0
+1247.56,Vendor_14,Marketing,2023-06-02,1058,Regular business transaction,0
+680.49,Vendor_20,Marketing,2023-09-02,1007,Regular business transaction,0
+705.64,Vendor_1,Sales,2023-12-18,1064,Regular business transaction,0
+863.26,Vendor_2,IT,2023-01-21,1066,Regular business transaction,0
+1132.53,Vendor_5,IT,2023-06-03,1016,Regular business transaction,0
+1390.91,Vendor_16,Finance,2023-02-09,1052,Regular business transaction,0
+838.13,Vendor_10,IT,2023-03-31,1045,Regular business transaction,0
+560.36,Vendor_17,Marketing,2023-12-14,1044,Regular business transaction,0
+667.54,Vendor_14,Finance,2023-07-08,1001,Regular business transaction,0
+816.59,Vendor_14,Legal,2023-09-12,1094,Regular business transaction,0
+762.63,Vendor_3,Legal,2023-02-05,1040,Regular business transaction,0
+732.02,Vendor_4,IT,2023-02-25,1086,Regular business transaction,0
+972.73,Vendor_6,HR,2023-10-28,1008,Regular business transaction,0
+1266.82,Vendor_18,Marketing,2023-06-11,1067,Regular business transaction,0
+895.49,Vendor_8,Legal,2023-06-29,1013,Regular business transaction,0
+456.69,Vendor_9,Sales,2023-02-02,1053,Regular business transaction,0
+924.97,Vendor_2,Legal,2023-08-25,1030,Regular business transaction,0
+950.26,Vendor_9,Admin,2023-10-22,1025,Regular business transaction,0
+1041.74,Vendor_2,Finance,2023-01-12,1086,Regular business transaction,0
+1153.96,Vendor_8,Sales,2023-11-24,1014,Regular business transaction,0
+1423.89,Vendor_16,Marketing,2023-04-11,1081,Regular business transaction,0
+722.42,Vendor_2,Marketing,2023-09-04,1098,Regular business transaction,0
+761.3,Vendor_10,HR,2023-02-18,1074,Regular business transaction,0
+1284.74,Vendor_4,Sales,2023-12-11,1014,Regular business transaction,0
+1059.78,Vendor_12,Admin,2023-09-14,1050,Regular business transaction,0
+380.63,Vendor_15,Finance,2023-02-25,1092,Regular business transaction,0
+1273.85,Vendor_3,HR,2023-01-15,1013,Regular business transaction,0
+1112.69,Vendor_12,Sales,2023-10-23,1093,Regular business transaction,0
+987.16,Vendor_1,Sales,2023-06-22,1022,Regular business transaction,0
+1008.12,Vendor_7,Finance,2023-01-10,1041,Regular business transaction,0
+1167.04,Vendor_18,Finance,2023-10-26,1054,Regular business transaction,0
+1013.73,Vendor_4,HR,2023-06-22,1048,Regular business transaction,0
+732.75,Vendor_15,IT,2023-01-08,1081,Regular business transaction,0
+359.28,Vendor_15,Admin,2023-10-01,1004,Regular business transaction,0
+1158.27,Vendor_9,Sales,2023-05-09,1080,Regular business transaction,0
+470.46,Vendor_19,HR,2023-10-04,1099,Regular business transaction,0
+1042.81,Vendor_2,IT,2023-12-25,1057,Regular business transaction,0
+874.95,Vendor_15,Legal,2023-02-14,1041,Regular business transaction,0
+1001.93,Vendor_20,IT,2023-10-01,1052,Regular business transaction,0
+899.84,Vendor_14,Legal,2023-08-31,1099,Regular business transaction,0
+1373.74,Vendor_14,HR,2023-01-05,1087,Regular business transaction,0
+609.49,Vendor_14,Finance,2023-08-26,1059,Regular business transaction,0
+1134.83,Vendor_16,Sales,2023-12-03,1080,Regular business transaction,0
+1342.93,Vendor_16,Sales,2023-11-18,1065,Regular business transaction,0
+929.93,Vendor_9,IT,2023-01-15,1053,Regular business transaction,0
+925.93,Vendor_1,Admin,2023-09-24,1086,Regular business transaction,0
+730.42,Vendor_13,Legal,2023-09-20,1030,Regular business transaction,0
+1196.29,Vendor_18,Legal,2023-09-29,1014,Regular business transaction,0
+895.31,Vendor_4,IT,2023-04-29,1018,Regular business transaction,0
+879.71,Vendor_3,IT,2023-06-24,1021,Regular business transaction,0
+976.0,Vendor_9,HR,2023-04-11,1040,Regular business transaction,0
+926.88,Vendor_10,IT,2023-05-08,1076,Regular business transaction,0
+1298.83,Vendor_10,HR,2023-10-08,1011,Regular business transaction,0
+1101.7,Vendor_15,Marketing,2023-04-25,1079,Regular business transaction,0
+1142.64,Vendor_17,IT,2023-09-08,1049,Regular business transaction,0
+1229.07,Vendor_8,HR,2023-01-27,1057,Regular business transaction,0
+1215.03,Vendor_14,HR,2023-07-10,1004,Regular business transaction,0
+1162.0,Vendor_18,Sales,2023-09-09,1001,Regular business transaction,0
+701.03,Vendor_3,Sales,2023-08-04,1045,Regular business transaction,0
+1379.19,Vendor_19,IT,2023-08-24,1002,Regular business transaction,0
+1204.12,Vendor_15,Finance,2023-10-22,1052,Regular business transaction,0
+824.7,Vendor_20,IT,2023-03-09,1046,Regular business transaction,0
+1018.2,Vendor_13,Admin,2023-08-16,1078,Regular business transaction,0
+1037.33,Vendor_8,Admin,2023-02-04,1082,Regular business transaction,0
+502.25,Vendor_8,Marketing,2023-06-04,1002,Regular business transaction,0
+1005.79,Vendor_5,Admin,2023-09-12,1080,Regular business transaction,0
+1030.01,Vendor_1,HR,2023-11-11,1033,Regular business transaction,0
+1361.3,Vendor_7,Finance,2023-09-09,1069,Regular business transaction,0
+1134.56,Vendor_16,IT,2023-03-14,1097,Regular business transaction,0
+1407.03,Vendor_4,Finance,2023-12-02,1047,Regular business transaction,0
+1162.91,Vendor_16,Legal,2023-08-23,1064,Regular business transaction,0
+1403.48,Vendor_4,Finance,2023-01-19,1058,Regular business transaction,0
+1370.26,Vendor_15,Sales,2023-06-15,1027,Regular business transaction,0
+1478.56,Vendor_2,IT,2023-03-16,1047,Regular business transaction,0
+1129.27,Vendor_12,Legal,2023-10-12,1086,Regular business transaction,0
+882.47,Vendor_8,Admin,2023-11-03,1045,Regular business transaction,0
+826.52,Vendor_12,Legal,2023-08-17,1090,Regular business transaction,0
+1459.29,Vendor_10,IT,2023-03-24,1081,Regular business transaction,0
+995.68,Vendor_19,Admin,2023-07-21,1047,Regular business transaction,0
+1114.4,Vendor_12,IT,2023-01-31,1053,Regular business transaction,0
+569.14,Vendor_11,Admin,2023-10-15,1001,Regular business transaction,0
+1065.46,Vendor_19,Marketing,2023-10-29,1090,Regular business transaction,0
+825.3,Vendor_1,Sales,2023-06-02,1080,Regular business transaction,0
+839.16,Vendor_16,Sales,2023-05-07,1099,Regular business transaction,0
+1060.55,Vendor_1,Admin,2023-12-30,1036,Regular business transaction,0
+1291.1,Vendor_11,Sales,2023-10-27,1063,Regular business transaction,0
+824.27,Vendor_20,Marketing,2023-10-25,1052,Regular business transaction,0
+1228.13,Vendor_11,Admin,2023-01-16,1037,Regular business transaction,0
+1025.62,Vendor_20,IT,2023-11-03,1025,Regular business transaction,0
+1003.89,Vendor_20,Legal,2023-10-22,1036,Regular business transaction,0
+596.93,Vendor_20,Sales,2023-01-29,1094,Regular business transaction,0
+843.48,Vendor_14,Marketing,2023-09-20,1019,Regular business transaction,0
+477.47,Vendor_7,Sales,2023-09-19,1053,Regular business transaction,0
+1169.27,Vendor_11,Finance,2023-01-06,1067,Regular business transaction,0
+792.99,Vendor_16,HR,2023-11-13,1061,Regular business transaction,0
+1599.3,Vendor_11,Admin,2023-05-03,1047,Regular business transaction,0
+401.85,Vendor_6,Finance,2023-11-11,1072,Regular business transaction,0
+531.7,Vendor_8,Sales,2023-07-06,1002,Regular business transaction,0
+995.69,Vendor_7,Marketing,2023-06-30,1088,Regular business transaction,0
+1000.17,Vendor_4,HR,2023-09-06,1006,Regular business transaction,0
+676.64,Vendor_11,HR,2023-02-17,1008,Regular business transaction,0
+1227.51,Vendor_13,Admin,2023-09-06,1067,Regular business transaction,0
+1141.77,Vendor_19,IT,2023-10-12,1009,Regular business transaction,0
+965.96,Vendor_16,Marketing,2023-01-25,1097,Regular business transaction,0
+541.25,Vendor_20,Marketing,2023-02-12,1034,Regular business transaction,0
+1152.28,Vendor_16,Legal,2023-05-01,1008,Regular business transaction,0
+987.59,Vendor_19,HR,2023-12-10,1006,Regular business transaction,0
+1255.89,Vendor_13,HR,2023-11-26,1003,Regular business transaction,0
+909.15,Vendor_7,Finance,2023-12-01,1095,Regular business transaction,0
+1258.62,Vendor_8,Marketing,2023-04-11,1024,Regular business transaction,0
+856.85,Vendor_12,Marketing,2023-10-11,1046,Regular business transaction,0
+900.71,Vendor_20,Marketing,2023-09-02,1059,Regular business transaction,0
+1122.55,Vendor_10,Marketing,2023-12-12,1042,Regular business transaction,0
+787.34,Vendor_4,Finance,2023-10-06,1071,Regular business transaction,0
+1070.59,Vendor_11,IT,2023-05-07,1019,Regular business transaction,0
+1005.18,Vendor_9,Legal,2023-05-12,1093,Regular business transaction,0
+1181.34,Vendor_11,Marketing,2023-05-23,1001,Regular business transaction,0
+936.26,Vendor_6,HR,2023-08-04,1048,Regular business transaction,0
+106.86,Vendor_3,Admin,2023-09-09,1073,Regular business transaction,0
+412.44,Vendor_4,Finance,2023-08-28,1095,Regular business transaction,0
+887.64,Vendor_1,Admin,2023-04-18,1053,Regular business transaction,0
+1312.82,Vendor_3,Legal,2023-04-22,1090,Regular business transaction,0
+778.77,Vendor_13,Sales,2023-05-02,1003,Regular business transaction,0
+1062.88,Vendor_13,Admin,2023-06-10,1041,Regular business transaction,0
+1363.23,Vendor_7,Admin,2023-10-01,1097,Regular business transaction,0
+1432.43,Vendor_4,Finance,2023-03-13,1053,Regular business transaction,0
+1362.09,Vendor_4,HR,2023-07-23,1022,Regular business transaction,0
+1342.14,Vendor_3,Sales,2023-08-09,1041,Regular business transaction,0
+1032.42,Vendor_1,Finance,2023-12-23,1027,Regular business transaction,0
+802.31,Vendor_3,Admin,2023-04-25,1063,Regular business transaction,0
+1077.88,Vendor_17,Sales,2023-06-21,1093,Regular business transaction,0
+643.79,Vendor_14,Finance,2023-10-14,1071,Regular business transaction,0
+1177.26,Vendor_15,Marketing,2023-07-21,1041,Regular business transaction,0
+1512.36,Vendor_6,Legal,2023-01-11,1049,Regular business transaction,0
+1230.67,Vendor_11,IT,2023-04-01,1042,Regular business transaction,0
+1281.48,Vendor_7,Admin,2023-12-28,1019,Regular business transaction,0
+1404.52,Vendor_7,IT,2023-04-20,1054,Regular business transaction,0
+1179.61,Vendor_8,Admin,2023-02-02,1092,Regular business transaction,0
+760.56,Vendor_14,HR,2023-09-08,1007,Regular business transaction,0
+1026.8,Vendor_2,Finance,2023-04-02,1087,Regular business transaction,0
+1492.4,Vendor_13,Sales,2023-11-21,1006,Regular business transaction,0
+1179.5,Vendor_5,Marketing,2023-04-06,1081,Regular business transaction,0
+1321.87,Vendor_14,Sales,2023-08-14,1039,Regular business transaction,0
+1111.15,Vendor_12,Sales,2023-02-03,1023,Regular business transaction,0
+1118.46,Vendor_5,Admin,2023-10-17,1099,Regular business transaction,0
+1062.15,Vendor_19,Legal,2023-02-02,1089,Regular business transaction,0
+699.79,Vendor_1,IT,2023-09-24,1052,Regular business transaction,0
+1321.94,Vendor_15,HR,2023-03-02,1086,Regular business transaction,0
+1235.79,Vendor_17,Finance,2023-11-25,1005,Regular business transaction,0
+1446.9,Vendor_6,Marketing,2023-01-20,1084,Regular business transaction,0
+976.4,Vendor_14,Admin,2023-12-27,1087,Regular business transaction,0
+1417.05,Vendor_6,Finance,2023-06-25,1036,Regular business transaction,0
+386.6,Vendor_3,Sales,2023-10-20,1036,Regular business transaction,0
+1121.21,Vendor_18,HR,2023-09-13,1061,Regular business transaction,0
+402.34,Vendor_4,Finance,2023-10-23,1083,Regular business transaction,0
+723.53,Vendor_11,Admin,2023-08-07,1025,Regular business transaction,0
+1017.23,Vendor_15,HR,2023-05-10,1075,Regular business transaction,0
+854.91,Vendor_16,Legal,2023-07-17,1032,Regular business transaction,0
+1416.06,Vendor_20,Marketing,2023-04-15,1036,Regular business transaction,0
+1313.78,Vendor_9,Legal,2023-05-10,1023,Regular business transaction,0
+1087.76,Vendor_11,Admin,2023-02-23,1044,Regular business transaction,0
+1110.15,Vendor_11,Admin,2023-12-21,1097,Regular business transaction,0
+573.35,Vendor_17,Legal,2023-04-16,1081,Regular business transaction,0
+994.08,Vendor_20,Finance,2023-09-28,1053,Regular business transaction,0
+976.61,Vendor_15,IT,2023-06-07,1046,Regular business transaction,0
+1196.37,Vendor_3,Marketing,2023-06-24,1022,Regular business transaction,0
+1357.35,Vendor_8,Marketing,2023-08-10,1024,Regular business transaction,0
+892.06,Vendor_10,Admin,2023-04-03,1043,Regular business transaction,0
+644.64,Vendor_1,HR,2023-09-23,1080,Regular business transaction,0
+563.79,Vendor_15,HR,2023-06-12,1035,Regular business transaction,0
+900.67,Vendor_2,Finance,2023-03-16,1069,Regular business transaction,0
+846.83,Vendor_9,Legal,2023-09-27,1030,Regular business transaction,0
+1467.99,Vendor_17,Legal,2023-04-13,1019,Regular business transaction,0
+849.08,Vendor_20,Legal,2023-09-03,1023,Regular business transaction,0
+881.79,Vendor_3,Legal,2023-04-08,1067,Regular business transaction,0
+1370.82,Vendor_6,HR,2023-04-29,1027,Regular business transaction,0
+903.66,Vendor_14,IT,2023-08-23,1022,Regular business transaction,0
+848.69,Vendor_2,Marketing,2023-09-15,1016,Regular business transaction,0
+893.53,Vendor_18,Sales,2023-01-16,1090,Regular business transaction,0
+960.59,Vendor_18,Admin,2023-07-20,1053,Regular business transaction,0
+1479.63,Vendor_12,Finance,2023-05-10,1003,Regular business transaction,0
+860.57,Vendor_9,Marketing,2023-02-17,1090,Regular business transaction,0
+1197.28,Vendor_6,HR,2023-09-25,1032,Regular business transaction,0
+1018.06,Vendor_17,IT,2023-01-16,1062,Regular business transaction,0
+868.07,Vendor_12,Legal,2023-11-17,1049,Regular business transaction,0
+1200.78,Vendor_7,HR,2023-04-03,1095,Regular business transaction,0
+1414.27,Vendor_2,IT,2023-05-13,1044,Regular business transaction,0
+608.02,Vendor_16,HR,2023-06-01,1084,Regular business transaction,0
+1097.17,Vendor_7,Sales,2023-10-06,1025,Regular business transaction,0
+1284.61,Vendor_20,Finance,2023-11-18,1082,Regular business transaction,0
+1259.96,Vendor_19,Marketing,2023-01-19,1023,Regular business transaction,0
+705.15,Vendor_8,HR,2023-05-09,1090,Regular business transaction,0
+1459.05,Vendor_5,IT,2023-07-23,1080,Regular business transaction,0
+710.69,Vendor_14,Admin,2023-09-21,1063,Regular business transaction,0
+1680.53,Vendor_8,Marketing,2023-09-30,1080,Regular business transaction,0
+757.61,Vendor_4,Legal,2023-06-05,1037,Regular business transaction,0
+1605.91,Vendor_17,Legal,2023-09-06,1018,Regular business transaction,0
+941.0,Vendor_16,HR,2023-02-25,1049,Regular business transaction,0
+1335.53,Vendor_4,HR,2023-10-16,1092,Regular business transaction,0
+835.31,Vendor_18,Sales,2023-02-10,1098,Regular business transaction,0
+424.51,Vendor_17,Legal,2023-07-10,1045,Regular business transaction,0
+867.27,Vendor_1,Legal,2023-08-11,1044,Regular business transaction,0
+887.59,Vendor_13,HR,2023-01-22,1030,Regular business transaction,0
+903.78,Vendor_11,Admin,2023-02-27,1019,Regular business transaction,0
+630.42,Vendor_7,IT,2023-11-03,1080,Regular business transaction,0
+856.59,Vendor_17,IT,2023-09-02,1035,Regular business transaction,0
+1437.31,Vendor_5,Finance,2023-08-09,1024,Regular business transaction,0
+1238.67,Vendor_14,Legal,2023-03-05,1044,Regular business transaction,0
+768.12,Vendor_1,HR,2023-02-22,1070,Regular business transaction,0
+927.66,Vendor_11,Legal,2023-08-03,1083,Regular business transaction,0
+924.42,Vendor_6,IT,2023-04-11,1011,Regular business transaction,0
+1288.46,Vendor_15,Sales,2023-08-07,1072,Regular business transaction,0
+897.6,Vendor_10,Marketing,2023-11-01,1036,Regular business transaction,0
+766.69,Vendor_18,Sales,2023-05-21,1080,Regular business transaction,0
+566.63,Vendor_8,IT,2023-05-02,1096,Regular business transaction,0
+1118.73,Vendor_5,Sales,2023-01-21,1038,Regular business transaction,0
+908.45,Vendor_5,Admin,2023-05-02,1002,Regular business transaction,0
+1211.38,Vendor_13,Legal,2023-08-09,1078,Regular business transaction,0
+702.27,Vendor_16,Finance,2023-05-10,1036,Regular business transaction,0
+790.11,Vendor_5,Admin,2023-12-15,1029,Regular business transaction,0
+918.13,Vendor_5,Legal,2023-10-29,1034,Regular business transaction,0
+1255.17,Vendor_17,IT,2023-09-25,1024,Regular business transaction,0
+1361.76,Vendor_8,Sales,2023-03-31,1016,Regular business transaction,0
+653.54,Vendor_2,IT,2023-10-02,1037,Regular business transaction,0
+622.85,Vendor_19,Sales,2023-10-27,1002,Regular business transaction,0
+1571.48,Vendor_2,Finance,2023-11-24,1094,Regular business transaction,0
+1297.0,Vendor_19,Legal,2023-03-03,1084,Regular business transaction,0
+1029.98,Vendor_15,Legal,2023-10-08,1011,Regular business transaction,0
+706.09,Vendor_20,Legal,2023-10-15,1004,Regular business transaction,0
+1013.48,Vendor_12,IT,2023-12-18,1015,Regular business transaction,0
+1308.34,Vendor_6,Finance,2023-02-04,1019,Regular business transaction,0
+953.63,Vendor_12,IT,2023-07-09,1027,Regular business transaction,0
+814.78,Vendor_10,Legal,2023-10-31,1000,Regular business transaction,0
+383.24,Vendor_5,Legal,2023-10-07,1075,Regular business transaction,0
+620.46,Vendor_8,Finance,2023-07-15,1067,Regular business transaction,0
+1154.57,Vendor_9,HR,2023-01-06,1066,Regular business transaction,0
+1366.27,Vendor_7,Marketing,2023-03-02,1049,Regular business transaction,0
+396.52,Vendor_3,Legal,2023-06-21,1054,Regular business transaction,0
+870.79,Vendor_12,Finance,2023-06-09,1029,Regular business transaction,0
+1147.69,Vendor_1,Marketing,2023-11-20,1087,Regular business transaction,0
+1066.38,Vendor_12,IT,2023-07-21,1043,Regular business transaction,0
+768.88,Vendor_2,Sales,2023-07-30,1070,Regular business transaction,0
+953.09,Vendor_19,Finance,2023-11-19,1025,Regular business transaction,0
+1027.0,Vendor_7,Sales,2023-12-15,1017,Regular business transaction,0
+1512.03,Vendor_3,Sales,2023-10-09,1008,Regular business transaction,0
+730.03,Vendor_14,Sales,2023-04-13,1049,Regular business transaction,0
+1125.36,Vendor_6,Marketing,2023-06-20,1022,Regular business transaction,0
+1198.04,Vendor_1,HR,2023-10-19,1014,Regular business transaction,0
+1087.25,Vendor_7,Marketing,2023-06-25,1073,Regular business transaction,0
+970.55,Vendor_4,Finance,2023-08-23,1008,Regular business transaction,0
+1411.37,Vendor_17,Marketing,2023-09-07,1053,Regular business transaction,0
+1204.99,Vendor_2,IT,2023-06-22,1023,Regular business transaction,0
+1521.58,Vendor_6,Legal,2023-06-27,1006,Regular business transaction,0
+1142.17,Vendor_6,HR,2023-01-02,1096,Regular business transaction,0
+808.86,Vendor_17,Sales,2023-08-21,1031,Regular business transaction,0
+570.72,Vendor_10,IT,2023-01-12,1016,Regular business transaction,0
+1060.17,Vendor_3,Marketing,2023-09-30,1095,Regular business transaction,0
+1193.46,Vendor_18,Finance,2023-09-13,1014,Regular business transaction,0
+770.95,Vendor_16,Legal,2023-04-08,1040,Regular business transaction,0
+514.0,Vendor_16,IT,2023-12-17,1020,Regular business transaction,0
+450.05,Vendor_6,Admin,2023-01-15,1024,Regular business transaction,0
+1076.28,Vendor_19,Admin,2023-01-22,1065,Regular business transaction,0
+1295.51,Vendor_11,HR,2023-07-18,1046,Regular business transaction,0
+964.54,Vendor_9,HR,2023-01-24,1077,Regular business transaction,0
+437.3,Vendor_18,Sales,2023-08-28,1008,Regular business transaction,0
+637.03,Vendor_19,Admin,2023-10-26,1037,Regular business transaction,0
+1043.18,Vendor_10,IT,2023-06-24,1002,Regular business transaction,0
+1349.56,Vendor_11,IT,2023-09-10,1090,Regular business transaction,0
+713.98,Vendor_1,Admin,2023-07-16,1093,Regular business transaction,0
+949.51,Vendor_2,Marketing,2023-05-30,1041,Regular business transaction,0
+607.34,Vendor_17,Sales,2023-06-29,1001,Regular business transaction,0
+1030.54,Vendor_9,Finance,2023-07-24,1021,Regular business transaction,0
+1077.86,Vendor_8,HR,2023-04-28,1097,Regular business transaction,0
+1190.59,Vendor_4,Finance,2023-06-13,1042,Regular business transaction,0
+1299.81,Vendor_4,HR,2023-01-17,1027,Regular business transaction,0
+889.47,Vendor_2,Sales,2023-08-04,1031,Regular business transaction,0
+1270.24,Vendor_20,Finance,2023-12-12,1073,Regular business transaction,0
+585.55,Vendor_9,HR,2023-11-02,1008,Regular business transaction,0
+1125.37,Vendor_8,IT,2023-12-04,1010,Regular business transaction,0
+482.31,Vendor_13,Sales,2023-10-28,1048,Regular business transaction,0
+825.58,Vendor_17,Admin,2023-09-26,1007,Regular business transaction,0
+910.24,Vendor_14,Marketing,2023-06-26,1038,Regular business transaction,0
+1108.28,Vendor_6,Marketing,2023-03-11,1045,Regular business transaction,0
+905.08,Vendor_20,Finance,2023-03-04,1034,Regular business transaction,0
+791.81,Vendor_4,Legal,2023-01-12,1063,Regular business transaction,0
+1262.24,Vendor_3,HR,2023-11-08,1085,Regular business transaction,0
+1653.32,Vendor_1,Legal,2023-02-28,1040,Regular business transaction,0
+961.41,Vendor_4,Legal,2023-08-06,1077,Regular business transaction,0
+1066.88,Vendor_7,IT,2023-06-19,1060,Regular business transaction,0
+948.94,Vendor_12,Marketing,2023-10-20,1066,Regular business transaction,0
+1553.36,Vendor_10,Sales,2023-12-13,1044,Regular business transaction,0
+785.6,Vendor_19,Marketing,2023-05-28,1041,Regular business transaction,0
+1955.74,Vendor_12,Legal,2023-03-22,1015,Regular business transaction,0
+1120.76,Vendor_9,Sales,2023-04-26,1005,Regular business transaction,0
+661.09,Vendor_12,Legal,2023-11-18,1014,Regular business transaction,0
+732.01,Vendor_14,IT,2023-10-30,1020,Regular business transaction,0
+1020.09,Vendor_16,IT,2023-08-01,1013,Regular business transaction,0
+1228.09,Vendor_4,Admin,2023-04-09,1063,Regular business transaction,0
+1433.37,Vendor_9,Admin,2023-10-25,1096,Regular business transaction,0
+1191.55,Vendor_15,Marketing,2023-01-14,1019,Regular business transaction,0
+1090.57,Vendor_17,Marketing,2023-04-04,1025,Regular business transaction,0
+1347.77,Vendor_6,IT,2023-10-10,1010,Regular business transaction,0
+1018.52,Vendor_3,Finance,2023-10-25,1097,Regular business transaction,0
+317.22,Vendor_7,Admin,2023-02-12,1041,Regular business transaction,0
+991.91,Vendor_20,Finance,2023-01-19,1006,Regular business transaction,0
+827.12,Vendor_11,Admin,2023-08-22,1040,Regular business transaction,0
+1094.5,Vendor_12,HR,2023-08-11,1015,Regular business transaction,0
+1036.59,Vendor_4,Sales,2023-10-09,1048,Regular business transaction,0
+988.03,Vendor_6,Admin,2023-01-14,1035,Regular business transaction,0
+927.59,Vendor_1,IT,2023-06-07,1031,Regular business transaction,0
+935.76,Vendor_20,Sales,2023-05-12,1004,Regular business transaction,0
+1531.49,Vendor_15,Sales,2023-11-08,1073,Regular business transaction,0
+1192.3,Vendor_4,Marketing,2023-01-05,1029,Regular business transaction,0
+1385.2,Vendor_10,Marketing,2023-07-17,1077,Regular business transaction,0
+1000.81,Vendor_18,Finance,2023-02-20,1019,Regular business transaction,0
+949.4,Vendor_4,HR,2023-02-11,1033,Regular business transaction,0
+866.55,Vendor_3,HR,2023-11-16,1002,Regular business transaction,0
+781.04,Vendor_10,Admin,2023-09-14,1040,Regular business transaction,0
+908.43,Vendor_2,Finance,2023-07-14,1048,Regular business transaction,0
+939.09,Vendor_1,HR,2023-12-15,1008,Regular business transaction,0
+788.97,Vendor_8,Admin,2023-07-16,1069,Regular business transaction,0
+1674.9,Vendor_8,Sales,2023-03-17,1018,Regular business transaction,0
+985.48,Vendor_17,Legal,2023-11-16,1027,Regular business transaction,0
+793.7,Vendor_9,Sales,2023-05-08,1035,Regular business transaction,0
+1586.23,Vendor_16,Admin,2023-09-09,1010,Regular business transaction,0
+968.34,Vendor_18,HR,2023-09-17,1034,Regular business transaction,0
+1257.35,Vendor_3,Admin,2023-03-26,1045,Regular business transaction,0
+1094.29,Vendor_19,IT,2023-01-10,1077,Regular business transaction,0
+416.53,Vendor_11,Legal,2023-10-02,1093,Regular business transaction,0
+847.9,Vendor_3,Admin,2023-02-16,1004,Regular business transaction,0
+1273.86,Vendor_8,Finance,2023-05-25,1013,Regular business transaction,0
+894.86,Vendor_16,Legal,2023-04-05,1017,Regular business transaction,0
+1176.45,Vendor_17,Marketing,2023-06-21,1054,Regular business transaction,0
+937.06,Vendor_3,Marketing,2023-11-24,1032,Regular business transaction,0
+1227.26,Vendor_9,Sales,2023-06-19,1051,Regular business transaction,0
+618.55,Vendor_17,Sales,2023-09-30,1024,Regular business transaction,0
+1164.12,Vendor_10,Admin,2023-02-01,1050,Regular business transaction,0
+1237.52,Vendor_6,Marketing,2023-09-19,1043,Regular business transaction,0
+69.49,Vendor_7,HR,2023-05-25,1076,Regular business transaction,0
+1353.11,Vendor_8,Admin,2023-08-02,1004,Regular business transaction,0
+903.71,Vendor_11,Finance,2023-08-31,1046,Regular business transaction,0
+749.31,Vendor_17,Sales,2023-07-01,1058,Regular business transaction,0
+1375.84,Vendor_17,HR,2023-09-21,1046,Regular business transaction,0
+1102.83,Vendor_14,IT,2023-02-21,1081,Regular business transaction,0
+1225.94,Vendor_5,IT,2023-03-10,1062,Regular business transaction,0
+1294.63,Vendor_10,HR,2023-12-09,1003,Regular business transaction,0
+1475.21,Vendor_20,Marketing,2023-10-24,1069,Regular business transaction,0
+866.8,Vendor_9,Finance,2023-12-29,1005,Regular business transaction,0
+867.07,Vendor_1,IT,2023-05-17,1064,Regular business transaction,0
+1396.14,Vendor_4,HR,2023-09-28,1010,Regular business transaction,0
+1118.76,Vendor_10,Finance,2023-09-15,1018,Regular business transaction,0
+978.99,Vendor_17,HR,2023-06-19,1066,Regular business transaction,0
+1216.58,Vendor_20,Legal,2023-01-28,1045,Regular business transaction,0
+1324.9,Vendor_20,Sales,2023-06-01,1084,Regular business transaction,0
+1351.7,Vendor_8,Finance,2023-12-07,1068,Regular business transaction,0
+1561.1,Vendor_8,Legal,2023-05-24,1062,Regular business transaction,0
+928.6,Vendor_17,Admin,2023-06-11,1012,Regular business transaction,0
+1087.73,Vendor_7,Marketing,2023-06-06,1072,Regular business transaction,0
+1076.94,Vendor_5,Finance,2023-03-22,1015,Regular business transaction,0
+1440.67,Vendor_17,Legal,2023-10-29,1052,Regular business transaction,0
+563.21,Vendor_2,Legal,2023-07-06,1088,Regular business transaction,0
+1170.87,Vendor_17,Sales,2023-12-27,1044,Regular business transaction,0
+1350.33,Vendor_16,Admin,2023-03-25,1042,Regular business transaction,0
+1002.91,Vendor_5,Marketing,2023-01-06,1029,Regular business transaction,0
+926.88,Vendor_18,Sales,2023-06-07,1065,Regular business transaction,0
+1153.21,Vendor_2,HR,2023-04-03,1002,Regular business transaction,0
+1280.2,Vendor_10,HR,2023-06-08,1021,Regular business transaction,0
+535.66,Vendor_16,HR,2023-02-16,1019,Regular business transaction,0
+1382.61,Vendor_1,Finance,2023-06-02,1051,Regular business transaction,0
+711.71,Vendor_7,Legal,2023-05-31,1094,Regular business transaction,0
+1156.04,Vendor_8,Legal,2023-07-06,1071,Regular business transaction,0
+1354.4,Vendor_20,Finance,2023-02-06,1091,Regular business transaction,0
+1095.38,Vendor_10,HR,2023-02-28,1072,Regular business transaction,0
+1251.14,Vendor_1,Admin,2023-10-17,1096,Regular business transaction,0
+1366.17,Vendor_15,HR,2023-12-12,1092,Regular business transaction,0
+1282.65,Vendor_19,Marketing,2023-11-21,1060,Regular business transaction,0
+1102.37,Vendor_15,Legal,2023-03-07,1054,Regular business transaction,0
+730.97,Vendor_9,Finance,2023-12-17,1021,Regular business transaction,0
+689.41,Vendor_19,Finance,2023-08-12,1035,Regular business transaction,0
+799.77,Vendor_9,Admin,2023-04-29,1027,Regular business transaction,0
+878.04,Vendor_9,Finance,2023-03-30,1018,Regular business transaction,0
+1098.28,Vendor_6,Admin,2023-06-24,1053,Regular business transaction,0
+1262.98,Vendor_14,Sales,2023-09-11,1088,Regular business transaction,0
+837.53,Vendor_7,Sales,2023-02-02,1020,Regular business transaction,0
+622.68,Vendor_17,IT,2023-04-21,1023,Regular business transaction,0
+398.12,Vendor_16,HR,2023-02-24,1008,Regular business transaction,0
+969.41,Vendor_8,Marketing,2023-12-31,1076,Regular business transaction,0
+991.98,Vendor_16,Admin,2023-06-27,1097,Regular business transaction,0
+1211.83,Vendor_7,Marketing,2023-01-07,1025,Regular business transaction,0
+431.4,Vendor_4,Finance,2023-09-10,1046,Regular business transaction,0
+920.74,Vendor_10,Sales,2023-11-25,1036,Regular business transaction,0
+751.69,Vendor_16,Admin,2023-03-06,1062,Regular business transaction,0
+971.46,Vendor_12,Sales,2023-08-01,1072,Regular business transaction,0
+611.63,Vendor_11,IT,2023-07-22,1006,Regular business transaction,0
+385.79,Vendor_14,Legal,2023-10-31,1043,Regular business transaction,0
+1272.66,Vendor_14,Marketing,2023-07-03,1038,Regular business transaction,0
+870.35,Vendor_10,Marketing,2023-04-14,1002,Regular business transaction,0
+807.19,Vendor_13,HR,2023-05-11,1025,Regular business transaction,0
+988.14,Vendor_17,Legal,2023-03-04,1079,Regular business transaction,0
+724.28,Vendor_1,IT,2023-08-26,1016,Regular business transaction,0
+1148.76,Vendor_1,Legal,2023-01-04,1035,Regular business transaction,0
+1394.32,Vendor_3,HR,2023-11-07,1081,Regular business transaction,0
+661.16,Vendor_18,Legal,2023-09-10,1016,Regular business transaction,0
+507.1,Vendor_15,IT,2023-04-18,1018,Regular business transaction,0
+1049.01,Vendor_15,Legal,2023-12-22,1085,Regular business transaction,0
+1014.55,Vendor_17,Legal,2023-12-08,1078,Regular business transaction,0
+608.59,Vendor_2,Finance,2023-05-01,1071,Regular business transaction,0
+650.79,Vendor_15,Finance,2023-01-05,1009,Regular business transaction,0
+533.51,Vendor_10,IT,2023-11-17,1046,Regular business transaction,0
+911.78,Vendor_18,HR,2023-01-07,1091,Regular business transaction,0
+1199.22,Vendor_20,Marketing,2023-03-14,1069,Regular business transaction,0
+836.13,Vendor_10,HR,2023-08-31,1027,Regular business transaction,0
+1224.43,Vendor_9,HR,2023-08-09,1013,Regular business transaction,0
+1052.81,Vendor_16,Sales,2023-10-22,1013,Regular business transaction,0
+930.66,Vendor_20,IT,2023-04-16,1071,Regular business transaction,0
+847.85,Vendor_5,Finance,2023-01-06,1009,Regular business transaction,0
+1064.01,Vendor_18,Marketing,2023-02-04,1063,Regular business transaction,0
+694.8,Vendor_5,Sales,2023-07-16,1095,Regular business transaction,0
+622.52,Vendor_10,Sales,2023-09-16,1051,Regular business transaction,0
+1267.97,Vendor_15,Admin,2023-06-21,1084,Regular business transaction,0
+1257.99,Vendor_2,Admin,2023-11-29,1063,Regular business transaction,0
+406.58,Vendor_6,IT,2023-10-25,1079,Regular business transaction,0
+984.58,Vendor_12,Admin,2023-11-17,1033,Regular business transaction,0
+918.09,Vendor_1,Marketing,2023-11-10,1057,Regular business transaction,0
+921.33,Vendor_4,Marketing,2023-02-14,1098,Regular business transaction,0
+1045.04,Vendor_6,IT,2023-12-30,1015,Regular business transaction,0
+464.59,Vendor_14,IT,2023-03-22,1092,Regular business transaction,0
+787.99,Vendor_14,Sales,2023-11-17,1059,Regular business transaction,0
+633.34,Vendor_12,IT,2023-01-16,1099,Regular business transaction,0
+749.54,Vendor_18,Admin,2023-06-04,1099,Regular business transaction,0
+1315.84,Vendor_12,IT,2023-07-26,1079,Regular business transaction,0
+417.5,Vendor_16,Marketing,2023-12-05,1053,Regular business transaction,0
+1444.59,Vendor_6,HR,2023-12-04,1075,Regular business transaction,0
+865.74,Vendor_20,HR,2023-09-27,1050,Regular business transaction,0
+1386.58,Vendor_8,Sales,2023-06-01,1031,Regular business transaction,0
+549.18,Vendor_19,IT,2023-07-24,1036,Regular business transaction,0
+1067.24,Vendor_8,Finance,2023-12-23,1005,Regular business transaction,0
+1201.35,Vendor_2,Marketing,2023-09-02,1041,Regular business transaction,0
+854.95,Vendor_13,Sales,2023-09-17,1010,Regular business transaction,0
+254.56,Vendor_11,IT,2023-07-31,1057,Regular business transaction,0
+1167.62,Vendor_9,Finance,2023-08-20,1060,Regular business transaction,0
+1413.4,Vendor_4,Legal,2023-07-01,1060,Regular business transaction,0
+1229.36,Vendor_17,Marketing,2023-04-15,1068,Regular business transaction,0
+868.98,Vendor_14,HR,2023-06-14,1029,Regular business transaction,0
+839.54,Vendor_8,IT,2023-01-15,1049,Regular business transaction,0
+824.65,Vendor_15,Finance,2023-10-22,1050,Regular business transaction,0
+894.51,Vendor_14,HR,2023-05-18,1029,Regular business transaction,0
+784.32,Vendor_6,Legal,2023-10-20,1018,Regular business transaction,0
+1083.98,Vendor_8,Marketing,2023-05-22,1080,Regular business transaction,0
+1392.86,Vendor_4,Admin,2023-03-15,1051,Regular business transaction,0
+1002.43,Vendor_1,Finance,2023-02-14,1045,Regular business transaction,0
+1002.16,Vendor_12,IT,2023-03-06,1074,Regular business transaction,0
+976.09,Vendor_6,Admin,2023-11-26,1060,Regular business transaction,0
+1362.56,Vendor_8,Admin,2023-08-17,1051,Regular business transaction,0
+956.89,Vendor_16,Marketing,2023-06-21,1083,Regular business transaction,0
+1422.26,Vendor_7,Finance,2023-02-28,1089,Regular business transaction,0
+1112.79,Vendor_16,Admin,2023-09-23,1035,Regular business transaction,0
+732.16,Vendor_9,IT,2023-02-18,1068,Regular business transaction,0
+962.48,Vendor_18,Sales,2023-01-13,1083,Regular business transaction,0
+667.01,Vendor_12,Legal,2023-09-04,1046,Regular business transaction,0
+1259.74,Vendor_15,Finance,2023-11-23,1006,Regular business transaction,0
+1249.66,Vendor_13,IT,2023-12-14,1087,Regular business transaction,0
+1147.13,Vendor_11,Marketing,2023-08-13,1093,Regular business transaction,0
+1111.85,Vendor_20,Admin,2023-01-01,1050,Regular business transaction,0
+939.57,Vendor_11,Admin,2023-07-21,1047,Regular business transaction,0
+1297.34,Vendor_14,Finance,2023-06-28,1089,Regular business transaction,0
+1197.98,Vendor_7,Finance,2023-05-23,1049,Regular business transaction,0
+761.18,Vendor_19,Legal,2023-10-28,1005,Regular business transaction,0
+563.07,Vendor_10,HR,2023-10-09,1034,Regular business transaction,0
+1369.71,Vendor_6,HR,2023-01-24,1096,Regular business transaction,0
+1291.78,Vendor_14,IT,2023-08-07,1089,Regular business transaction,0
+659.96,Vendor_6,Admin,2023-06-27,1010,Regular business transaction,0
+1715.6,Vendor_19,Admin,2023-05-26,1004,Regular business transaction,0
+968.94,Vendor_18,Finance,2023-12-31,1054,Regular business transaction,0
+847.76,Vendor_5,IT,2023-09-14,1081,Regular business transaction,0
+1141.45,Vendor_9,Marketing,2023-05-24,1049,Regular business transaction,0
+1104.51,Vendor_2,Legal,2023-07-05,1067,Regular business transaction,0
+957.31,Vendor_3,HR,2023-05-08,1093,Regular business transaction,0
+872.62,Vendor_9,IT,2023-10-04,1099,Regular business transaction,0
+1184.06,Vendor_20,Legal,2023-03-28,1037,Regular business transaction,0
+1076.77,Vendor_4,Marketing,2023-03-26,1047,Regular business transaction,0
+1331.96,Vendor_3,IT,2023-03-21,1092,Regular business transaction,0
+975.72,Vendor_3,Sales,2023-11-18,1094,Regular business transaction,0
+546.34,Vendor_19,Admin,2023-03-25,1013,Regular business transaction,0
+757.53,Vendor_15,IT,2023-01-04,1066,Regular business transaction,0
+375.54,Vendor_10,Admin,2023-06-14,1014,Regular business transaction,0
+669.86,Vendor_15,IT,2023-05-15,1063,Regular business transaction,0
+1196.53,Vendor_10,Admin,2023-08-31,1065,Regular business transaction,0
+891.14,Vendor_5,IT,2023-08-02,1085,Regular business transaction,0
+1004.04,Vendor_6,Admin,2023-04-17,1080,Regular business transaction,0
+429.36,Vendor_14,HR,2023-05-19,1023,Regular business transaction,0
+615.59,Vendor_4,Marketing,2023-08-16,1087,Regular business transaction,0
+953.87,Vendor_3,HR,2023-10-29,1087,Regular business transaction,0
+1012.21,Vendor_5,Sales,2023-07-14,1095,Regular business transaction,0
+730.77,Vendor_19,Finance,2023-08-10,1012,Regular business transaction,0
+931.51,Vendor_9,Marketing,2023-06-18,1098,Regular business transaction,0
+318.48,Vendor_1,Marketing,2023-10-26,1006,Regular business transaction,0
+1194.39,Vendor_5,Marketing,2023-04-18,1058,Regular business transaction,0
+1629.86,Vendor_19,Sales,2023-03-31,1086,Regular business transaction,0
+1469.15,Vendor_4,IT,2023-12-30,1042,Regular business transaction,0
+864.21,Vendor_1,Marketing,2023-03-29,1074,Regular business transaction,0
+1370.79,Vendor_8,Legal,2023-05-21,1041,Regular business transaction,0
+954.96,Vendor_10,Legal,2023-01-21,1096,Regular business transaction,0
+925.27,Vendor_4,Marketing,2023-01-30,1015,Regular business transaction,0
+1230.89,Vendor_14,Sales,2023-05-11,1056,Regular business transaction,0
+772.59,Vendor_19,Admin,2023-09-27,1002,Regular business transaction,0
+1116.48,Vendor_9,Sales,2023-02-09,1066,Regular business transaction,0
+867.36,Vendor_20,IT,2023-03-30,1059,Regular business transaction,0
+1170.99,Vendor_20,Marketing,2023-04-13,1067,Regular business transaction,0
+510.67,Vendor_16,HR,2023-07-03,1055,Regular business transaction,0
+740.7,Vendor_19,Sales,2023-05-30,1081,Regular business transaction,0
+437.33,Vendor_12,IT,2023-10-01,1050,Regular business transaction,0
+1072.4,Vendor_17,HR,2023-01-19,1091,Regular business transaction,0
+1004.34,Vendor_3,HR,2023-08-26,1026,Regular business transaction,0
+430.26,Vendor_2,IT,2023-10-07,1089,Regular business transaction,0
+842.59,Vendor_16,HR,2023-03-22,1059,Regular business transaction,0
+878.02,Vendor_15,HR,2023-08-27,1027,Regular business transaction,0
+833.73,Vendor_19,HR,2023-09-23,1075,Regular business transaction,0
+425.3,Vendor_12,IT,2023-06-02,1011,Regular business transaction,0
+646.3,Vendor_13,Legal,2023-05-17,1095,Regular business transaction,0
+882.07,Vendor_16,Marketing,2023-09-18,1096,Regular business transaction,0
+1215.15,Vendor_8,Marketing,2023-08-19,1035,Regular business transaction,0
+998.71,Vendor_18,HR,2023-02-24,1048,Regular business transaction,0
+784.57,Vendor_16,Sales,2023-10-26,1078,Regular business transaction,0
+1170.98,Vendor_6,IT,2023-05-09,1097,Regular business transaction,0
+837.76,Vendor_2,Admin,2023-04-10,1064,Regular business transaction,0
+836.3,Vendor_14,Admin,2023-02-20,1012,Regular business transaction,0
+956.81,Vendor_17,Sales,2023-01-10,1014,Regular business transaction,0
+963.81,Vendor_9,Admin,2023-10-05,1052,Regular business transaction,0
+1107.4,Vendor_9,HR,2023-05-12,1090,Regular business transaction,0
+1444.93,Vendor_4,Admin,2023-02-07,1046,Regular business transaction,0
+1176.05,Vendor_7,Marketing,2023-08-26,1024,Regular business transaction,0
+1057.57,Vendor_19,Legal,2023-05-06,1065,Regular business transaction,0
+1017.23,Vendor_17,Finance,2023-05-29,1031,Regular business transaction,0
+987.39,Vendor_10,Marketing,2023-06-08,1065,Regular business transaction,0
+1369.68,Vendor_1,Marketing,2023-01-08,1087,Regular business transaction,0
+1053.68,Vendor_12,Marketing,2023-05-22,1073,Regular business transaction,0
+1651.15,Vendor_7,Legal,2023-09-15,1073,Regular business transaction,0
+430.04,Vendor_11,HR,2023-08-19,1088,Regular business transaction,0
+1072.36,Vendor_18,IT,2023-10-21,1062,Regular business transaction,0
+1083.4,Vendor_18,Sales,2023-09-17,1059,Regular business transaction,0
+1449.75,Vendor_2,Finance,2023-07-11,1014,Regular business transaction,0
+1060.25,Vendor_2,IT,2023-09-26,1071,Regular business transaction,0
+990.74,Vendor_20,Marketing,2023-12-12,1008,Regular business transaction,0
+1437.75,Vendor_11,Marketing,2023-04-23,1052,Regular business transaction,0
+591.31,Vendor_13,Finance,2023-04-01,1068,Regular business transaction,0
+1572.71,Vendor_5,HR,2023-07-19,1092,Regular business transaction,0
+1224.3,Vendor_12,HR,2023-07-09,1091,Regular business transaction,0
+509.25,Vendor_19,Admin,2023-12-01,1095,Regular business transaction,0
+212.62,Vendor_15,Legal,2023-01-19,1037,Regular business transaction,0
+1711.23,Vendor_17,Marketing,2023-04-12,1087,Regular business transaction,0
+1056.35,Vendor_2,Finance,2023-01-12,1073,Regular business transaction,0
+388.74,Vendor_3,HR,2023-07-06,1003,Regular business transaction,0
+1149.95,Vendor_8,Admin,2023-05-16,1005,Regular business transaction,0
+952.3,Vendor_14,IT,2023-03-16,1085,Regular business transaction,0
+953.69,Vendor_6,Legal,2023-12-25,1085,Regular business transaction,0
+1460.7,Vendor_6,HR,2023-04-03,1092,Regular business transaction,0
+1039.47,Vendor_17,Legal,2023-06-13,1066,Regular business transaction,0
+672.04,Vendor_9,Legal,2023-11-03,1055,Regular business transaction,0
+1064.77,Vendor_13,Legal,2023-11-08,1018,Regular business transaction,0
+1308.14,Vendor_7,Finance,2023-01-24,1089,Regular business transaction,0
+1035.22,Vendor_12,Finance,2023-08-04,1034,Regular business transaction,0
+883.05,Vendor_8,Marketing,2023-04-14,1077,Regular business transaction,0
+735.78,Vendor_18,Finance,2023-05-30,1027,Regular business transaction,0
+1152.91,Vendor_1,Sales,2023-08-29,1045,Regular business transaction,0
+1150.76,Vendor_14,Legal,2023-10-21,1076,Regular business transaction,0
+1104.56,Vendor_15,Finance,2023-11-14,1008,Regular business transaction,0
+916.25,Vendor_12,Legal,2023-10-22,1044,Regular business transaction,0
+757.14,Vendor_1,Marketing,2023-03-15,1038,Regular business transaction,0
+1448.27,Vendor_10,Finance,2023-01-24,1039,Regular business transaction,0
+1060.74,Vendor_7,IT,2023-02-24,1099,Regular business transaction,0
+1269.71,Vendor_12,Finance,2023-01-20,1060,Regular business transaction,0
+1019.19,Vendor_3,Admin,2023-09-21,1007,Regular business transaction,0
+754.46,Vendor_12,Marketing,2023-10-01,1009,Regular business transaction,0
+443.15,Vendor_5,Admin,2023-11-03,1069,Regular business transaction,0
+1292.65,Vendor_1,Sales,2023-08-10,1096,Regular business transaction,0
+726.81,Vendor_17,IT,2023-09-17,1019,Regular business transaction,0
+1194.09,Vendor_17,IT,2023-01-20,1095,Regular business transaction,0
+519.04,Vendor_17,HR,2023-12-15,1044,Regular business transaction,0
+1011.68,Vendor_9,HR,2023-03-15,1017,Regular business transaction,0
+1103.78,Vendor_11,IT,2023-12-12,1069,Regular business transaction,0
+830.52,Vendor_13,Marketing,2023-10-10,1070,Regular business transaction,0
+940.26,Vendor_1,Legal,2023-08-19,1018,Regular business transaction,0
+350.93,Vendor_19,Finance,2023-06-17,1048,Regular business transaction,0
+1178.39,Vendor_5,Legal,2023-03-04,1053,Regular business transaction,0
+897.96,Vendor_11,Legal,2023-07-24,1066,Regular business transaction,0
+1038.6,Vendor_19,Legal,2023-05-22,1037,Regular business transaction,0
+1035.28,Vendor_16,Sales,2023-09-15,1097,Regular business transaction,0
+1106.87,Vendor_5,Finance,2023-01-19,1047,Regular business transaction,0
+1186.55,Vendor_14,HR,2023-11-09,1089,Regular business transaction,0
+763.07,Vendor_5,HR,2023-08-04,1082,Regular business transaction,0
+424.88,Vendor_1,IT,2023-01-19,1093,Regular business transaction,0
+949.85,Vendor_7,HR,2023-12-05,1080,Regular business transaction,0
+1196.15,Vendor_19,IT,2023-04-20,1004,Regular business transaction,0
+853.71,Vendor_11,IT,2023-09-01,1055,Regular business transaction,0
+1262.97,Vendor_7,Legal,2023-09-03,1006,Regular business transaction,0
+1043.48,Vendor_19,Marketing,2023-10-01,1052,Regular business transaction,0
+1505.08,Vendor_5,HR,2023-04-24,1058,Regular business transaction,0
+1167.62,Vendor_13,Sales,2023-12-11,1026,Regular business transaction,0
+932.0,Vendor_7,IT,2023-10-29,1097,Regular business transaction,0
+1280.64,Vendor_13,IT,2023-05-06,1032,Regular business transaction,0
+936.81,Vendor_7,IT,2023-06-06,1020,Regular business transaction,0
+1089.04,Vendor_19,Admin,2023-09-07,1053,Regular business transaction,0
+761.64,Vendor_9,Sales,2023-12-21,1006,Regular business transaction,0
+1182.86,Vendor_18,Marketing,2023-06-30,1007,Regular business transaction,0
+701.18,Vendor_10,HR,2023-05-28,1058,Regular business transaction,0
+770.28,Vendor_6,IT,2023-03-06,1093,Regular business transaction,0
+1080.63,Vendor_10,Finance,2023-10-13,1052,Regular business transaction,0
+574.63,Vendor_1,IT,2023-10-19,1083,Regular business transaction,0
+969.75,Vendor_16,HR,2023-03-01,1025,Regular business transaction,0
+1355.18,Vendor_13,IT,2023-08-28,1012,Regular business transaction,0
+1220.25,Vendor_19,Admin,2023-05-24,1098,Regular business transaction,0
+1321.48,Vendor_4,HR,2023-08-05,1019,Regular business transaction,0
+1154.62,Vendor_18,Sales,2023-05-22,1006,Regular business transaction,0
+1066.18,Vendor_1,Admin,2023-02-15,1043,Regular business transaction,0
+776.61,Vendor_4,IT,2023-06-18,1093,Regular business transaction,0
+937.02,Vendor_9,Sales,2023-01-22,1065,Regular business transaction,0
+871.48,Vendor_10,HR,2023-12-25,1005,Regular business transaction,0
+836.06,Vendor_13,Admin,2023-11-30,1015,Regular business transaction,0
+528.88,Vendor_18,Admin,2023-03-23,1023,Regular business transaction,0
+1621.36,Vendor_4,HR,2023-05-18,1082,Regular business transaction,0
+1099.73,Vendor_13,IT,2023-06-03,1078,Regular business transaction,0
+1073.39,Vendor_3,HR,2023-04-19,1041,Regular business transaction,0
+1032.27,Vendor_3,HR,2023-02-06,1046,Regular business transaction,0
+1016.34,Vendor_18,Marketing,2023-02-14,1003,Regular business transaction,0
+1040.18,Vendor_6,Legal,2023-02-11,1041,Regular business transaction,0
+509.89,Vendor_3,Sales,2023-03-08,1001,Regular business transaction,0
+746.78,Vendor_9,Sales,2023-10-11,1022,Regular business transaction,0
+816.27,Vendor_4,IT,2023-08-31,1033,Regular business transaction,0
+945.21,Vendor_11,Marketing,2023-12-05,1006,Regular business transaction,0
+1052.33,Vendor_5,IT,2023-06-10,1072,Regular business transaction,0
+1005.69,Vendor_14,IT,2023-02-26,1004,Regular business transaction,0
+566.01,Vendor_13,Legal,2023-09-10,1008,Regular business transaction,0
+1449.63,Vendor_14,Legal,2023-09-20,1010,Regular business transaction,0
+853.78,Vendor_7,HR,2023-05-12,1061,Regular business transaction,0
+111.26,Vendor_1,Sales,2023-12-21,1029,Regular business transaction,0
+705.81,Vendor_16,Admin,2023-10-04,1082,Regular business transaction,0
+884.96,Vendor_13,Admin,2023-12-18,1059,Regular business transaction,0
+1265.39,Vendor_17,Sales,2023-03-13,1046,Regular business transaction,0
+635.31,Vendor_7,Finance,2023-02-16,1042,Regular business transaction,0
+901.1,Vendor_3,Finance,2023-06-22,1012,Regular business transaction,0
+737.56,Vendor_20,Admin,2023-10-10,1049,Regular business transaction,0
+820.7,Vendor_4,Sales,2023-10-01,1091,Regular business transaction,0
+599.78,Vendor_10,Sales,2023-03-18,1032,Regular business transaction,0
+873.1,Vendor_5,Marketing,2023-05-22,1092,Regular business transaction,0
+710.3,Vendor_13,Sales,2023-05-02,1063,Regular business transaction,0
+787.81,Vendor_17,Finance,2023-10-13,1056,Regular business transaction,0
+1234.18,Vendor_12,Marketing,2023-06-23,1047,Regular business transaction,0
+1213.69,Vendor_11,Sales,2023-05-14,1029,Regular business transaction,0
+748.42,Vendor_13,HR,2023-10-12,1046,Regular business transaction,0
+701.75,Vendor_18,Sales,2023-10-30,1050,Regular business transaction,0
+1222.49,Vendor_18,Legal,2023-04-23,1063,Regular business transaction,0
+1230.59,Vendor_4,IT,2023-12-02,1056,Regular business transaction,0
+661.4,Vendor_6,IT,2023-03-08,1089,Regular business transaction,0
+919.33,Vendor_15,Legal,2023-04-18,1076,Regular business transaction,0
+1380.03,Vendor_9,Legal,2023-10-21,1034,Regular business transaction,0
+919.16,Vendor_2,Finance,2023-08-01,1067,Regular business transaction,0
+1662.52,Vendor_6,Marketing,2023-07-05,1008,Regular business transaction,0
+1017.89,Vendor_5,Legal,2023-03-15,1005,Suspicious transaction,1
+5000.0,Vendor_14,Legal,2023-07-04,1072,Suspicious transaction,1
+10000.0,Vendor_13,Sales,2023-11-26,1018,Suspicious transaction,1
+20000.0,Vendor_1,IT,2023-10-01,1050,Suspicious transaction,1
+10000.0,Vendor_7,Admin,2023-10-26,1048,Suspicious transaction,1
+5000.0,Vendor_14,Sales,2023-07-15,1006,Suspicious transaction,1
+10000.0,Vendor_15,IT,2023-10-17,1048,Suspicious transaction,1
+5000.0,Vendor_19,Legal,2023-09-27,1099,Suspicious transaction,1
+827.77,Vendor_5,HR,2023-04-20,1095,Suspicious transaction,1
+822.72,Vendor_5,Legal,2023-08-02,1094,Suspicious transaction,1
+1444.56,Vendor_4,Marketing,2023-12-24,1089,Suspicious transaction,1
+1141.2,Vendor_18,Sales,2023-08-27,1026,Suspicious transaction,1
+20000.0,Vendor_3,Finance,2023-05-24,1080,Suspicious transaction,1
+1570.29,Vendor_20,Marketing,2023-05-21,1041,Suspicious transaction,1
+737.99,Vendor_5,HR,2023-05-27,1007,Suspicious transaction,1
+20000.0,Vendor_13,Sales,2023-08-21,1063,Suspicious transaction,1
+10000.0,Vendor_14,Sales,2023-06-20,1079,Suspicious transaction,1
+10000.0,Vendor_18,Marketing,2023-08-13,1003,Suspicious transaction,1
+1103.08,Vendor_5,HR,2023-05-19,1009,Suspicious transaction,1
+10000.0,Vendor_11,IT,2023-09-04,1030,Suspicious transaction,1
+5000.0,Vendor_13,HR,2023-02-23,1046,Suspicious transaction,1
+10000.0,Vendor_11,IT,2023-12-14,1003,Suspicious transaction,1
+1331.67,Vendor_3,IT,2023-04-30,1006,Suspicious transaction,1
+678.42,Vendor_8,Finance,2023-08-05,1048,Suspicious transaction,1
+1294.61,Vendor_5,Legal,2023-02-07,1096,Suspicious transaction,1
+1231.23,Vendor_5,Legal,2023-11-02,1093,Suspicious transaction,1
+5000.0,Vendor_19,HR,2023-06-05,1014,Suspicious transaction,1
+741.87,Vendor_5,HR,2023-08-05,1076,Suspicious transaction,1
+5000.0,Vendor_13,Legal,2023-04-30,1025,Suspicious transaction,1
+20000.0,Vendor_16,Marketing,2023-05-16,1086,Suspicious transaction,1
+939.36,Vendor_5,Legal,2023-12-21,1041,Suspicious transaction,1
+1415.72,Vendor_5,Legal,2023-04-08,1071,Suspicious transaction,1
+680.96,Vendor_5,HR,2023-01-11,1060,Suspicious transaction,1
+20000.0,Vendor_15,Legal,2023-07-05,1007,Suspicious transaction,1
+1270.69,Vendor_10,Admin,2023-02-26,1019,Suspicious transaction,1
+5000.0,Vendor_11,Sales,2023-10-20,1049,Suspicious transaction,1
+892.87,Vendor_5,Legal,2023-05-30,1091,Suspicious transaction,1
+478.6,Vendor_5,Legal,2023-02-18,1043,Suspicious transaction,1
+515.07,Vendor_11,Finance,2023-12-30,1059,Suspicious transaction,1
+801.21,Vendor_15,Legal,2023-05-13,1092,Suspicious transaction,1
+10000.0,Vendor_2,Marketing,2023-08-12,1081,Suspicious transaction,1
+1390.65,Vendor_5,Legal,2023-06-13,1024,Suspicious transaction,1
+5000.0,Vendor_10,Marketing,2023-05-18,1010,Suspicious transaction,1
+1057.87,Vendor_5,Legal,2023-03-27,1056,Suspicious transaction,1
+929.98,Vendor_5,Legal,2023-03-13,1015,Suspicious transaction,1
+915.61,Vendor_5,HR,2023-01-05,1006,Suspicious transaction,1
+10000.0,Vendor_19,HR,2023-10-08,1040,Suspicious transaction,1
+5000.0,Vendor_20,Finance,2023-08-22,1034,Suspicious transaction,1
+10000.0,Vendor_18,IT,2023-09-28,1074,Suspicious transaction,1
+10000.0,Vendor_15,Admin,2023-01-13,1033,Suspicious transaction,1
+10000.0,Vendor_12,Finance,2023-06-27,1014,Suspicious transaction,1
+20000.0,Vendor_3,IT,2023-10-28,1061,Suspicious transaction,1
+1349.6,Vendor_5,HR,2023-09-05,1076,Suspicious transaction,1
+1433.86,Vendor_1,HR,2023-02-12,1053,Suspicious transaction,1
+20000.0,Vendor_8,Legal,2023-09-23,1009,Suspicious transaction,1
+1281.92,Vendor_8,Finance,2023-08-19,1023,Suspicious transaction,1
+10000.0,Vendor_17,Finance,2023-01-11,1082,Suspicious transaction,1
+986.87,Vendor_13,Marketing,2023-05-06,1047,Suspicious transaction,1
+20000.0,Vendor_15,Sales,2023-03-12,1095,Suspicious transaction,1
+869.71,Vendor_18,HR,2023-06-25,1038,Suspicious transaction,1
+5000.0,Vendor_19,Legal,2023-07-25,1055,Suspicious transaction,1
+1293.84,Vendor_5,HR,2023-05-29,1034,Suspicious transaction,1
+1335.03,Vendor_1,HR,2023-12-24,1007,Suspicious transaction,1
+5000.0,Vendor_8,IT,2023-03-14,1019,Suspicious transaction,1
+844.93,Vendor_8,Finance,2023-10-08,1029,Suspicious transaction,1
+939.21,Vendor_15,Finance,2023-07-23,1073,Suspicious transaction,1
+899.62,Vendor_2,Finance,2023-01-28,1038,Suspicious transaction,1
+1515.8,Vendor_19,Admin,2023-04-02,1086,Suspicious transaction,1
+20000.0,Vendor_2,Finance,2023-03-23,1030,Suspicious transaction,1
+457.27,Vendor_10,Admin,2023-12-16,1096,Suspicious transaction,1
+776.69,Vendor_5,Legal,2023-05-16,1044,Suspicious transaction,1
+762.34,Vendor_18,Marketing,2023-01-08,1072,Suspicious transaction,1
+551.89,Vendor_4,Legal,2023-06-11,1003,Suspicious transaction,1
+634.73,Vendor_6,Admin,2023-10-08,1047,Suspicious transaction,1
+334.75,Vendor_5,HR,2023-06-19,1017,Suspicious transaction,1
+10000.0,Vendor_2,Admin,2023-12-25,1075,Suspicious transaction,1
+1204.16,Vendor_1,Admin,2023-05-13,1089,Suspicious transaction,1
+20000.0,Vendor_9,IT,2023-07-12,1061,Suspicious transaction,1
+5000.0,Vendor_19,Finance,2023-05-26,1018,Suspicious transaction,1
+895.18,Vendor_20,Admin,2023-04-01,1047,Suspicious transaction,1
+1163.35,Vendor_9,Sales,2023-09-09,1094,Suspicious transaction,1
+1163.45,Vendor_5,Legal,2023-08-17,1064,Suspicious transaction,1
+10000.0,Vendor_17,HR,2023-12-02,1032,Suspicious transaction,1
+710.7,Vendor_5,HR,2023-08-23,1069,Suspicious transaction,1
+1730.06,Vendor_17,IT,2023-11-19,1062,Suspicious transaction,1
+796.05,Vendor_5,HR,2023-06-29,1023,Suspicious transaction,1
+5000.0,Vendor_8,Admin,2023-05-01,1034,Suspicious transaction,1
+5000.0,Vendor_19,HR,2023-09-10,1030,Suspicious transaction,1
+970.8,Vendor_4,Sales,2023-11-26,1022,Suspicious transaction,1
+644.89,Vendor_16,Sales,2023-11-12,1000,Suspicious transaction,1
+1243.89,Vendor_6,Admin,2023-11-12,1055,Suspicious transaction,1
+521.89,Vendor_17,Marketing,2023-08-19,1043,Suspicious transaction,1
+20000.0,Vendor_3,HR,2023-11-19,1038,Suspicious transaction,1
+20000.0,Vendor_18,Legal,2023-10-24,1007,Suspicious transaction,1
+5000.0,Vendor_17,Sales,2023-08-18,1024,Suspicious transaction,1
+939.43,Vendor_7,Admin,2023-02-05,1048,Suspicious transaction,1
+1603.42,Vendor_10,HR,2023-02-12,1068,Suspicious transaction,1
+798.14,Vendor_15,Admin,2023-07-29,1061,Suspicious transaction,1
+5000.0,Vendor_14,IT,2023-10-21,1083,Suspicious transaction,1
+5000.0,Vendor_17,Legal,2023-02-17,1077,Suspicious transaction,1
+1739.88,Vendor_5,HR,2023-08-07,1017,Suspicious transaction,1
+1228.07,Vendor_5,HR,2023-02-25,1047,Suspicious transaction,1
+643.19,Vendor_12,Marketing,2023-02-12,1060,Suspicious transaction,1
+1123.5,Vendor_5,HR,2023-09-05,1049,Suspicious transaction,1
+20000.0,Vendor_5,Marketing,2023-09-13,1038,Suspicious transaction,1
+1393.29,Vendor_5,Legal,2023-03-19,1024,Suspicious transaction,1
+1042.03,Vendor_5,Legal,2023-08-12,1029,Suspicious transaction,1
+1141.18,Vendor_14,Legal,2023-08-05,1006,Suspicious transaction,1
+528.34,Vendor_1,Sales,2023-07-16,1066,Suspicious transaction,1
+1154.9,Vendor_18,Finance,2023-01-22,1059,Suspicious transaction,1
+10000.0,Vendor_4,Legal,2023-06-27,1034,Suspicious transaction,1
+374.33,Vendor_17,Sales,2023-09-23,1083,Suspicious transaction,1
+10000.0,Vendor_16,HR,2023-10-16,1072,Suspicious transaction,1
+892.27,Vendor_11,Marketing,2023-02-12,1045,Suspicious transaction,1
+1440.7,Vendor_5,Legal,2023-09-10,1052,Suspicious transaction,1
+1089.01,Vendor_5,Legal,2023-01-07,1000,Suspicious transaction,1
+1102.32,Vendor_2,Admin,2023-05-14,1029,Suspicious transaction,1
+5000.0,Vendor_15,Admin,2023-01-14,1002,Suspicious transaction,1
+500.92,Vendor_5,Legal,2023-09-11,1084,Suspicious transaction,1
+20000.0,Vendor_1,Sales,2023-05-17,1006,Suspicious transaction,1
+5000.0,Vendor_5,Legal,2023-06-26,1004,Suspicious transaction,1
+1111.55,Vendor_20,Sales,2023-10-08,1041,Suspicious transaction,1
+1191.6,Vendor_19,Marketing,2023-02-12,1038,Suspicious transaction,1
+1293.88,Vendor_5,Legal,2023-01-03,1048,Suspicious transaction,1
+1166.02,Vendor_5,Legal,2023-07-31,1080,Suspicious transaction,1
+1253.08,Vendor_10,Sales,2023-12-30,1083,Suspicious transaction,1
+1118.93,Vendor_5,HR,2023-09-07,1069,Suspicious transaction,1
+1134.83,Vendor_5,Legal,2023-08-18,1051,Suspicious transaction,1
+958.31,Vendor_12,Legal,2023-08-05,1017,Suspicious transaction,1
+10000.0,Vendor_1,Finance,2023-11-23,1000,Suspicious transaction,1
+5000.0,Vendor_2,Marketing,2023-09-06,1069,Suspicious transaction,1
+5000.0,Vendor_4,Sales,2023-12-27,1037,Suspicious transaction,1
+1341.57,Vendor_5,HR,2023-05-18,1080,Suspicious transaction,1
+675.81,Vendor_5,HR,2023-01-29,1083,Suspicious transaction,1
+1200.09,Vendor_5,HR,2023-09-18,1050,Suspicious transaction,1
+10000.0,Vendor_10,Marketing,2023-06-21,1053,Suspicious transaction,1
+1089.2,Vendor_15,HR,2023-03-25,1036,Suspicious transaction,1
+601.67,Vendor_9,Marketing,2023-04-01,1095,Suspicious transaction,1
+658.46,Vendor_19,Admin,2023-03-12,1064,Suspicious transaction,1
+10000.0,Vendor_12,Legal,2023-12-14,1053,Suspicious transaction,1
+1568.17,Vendor_5,HR,2023-07-12,1093,Suspicious transaction,1
+1011.37,Vendor_5,HR,2023-06-05,1085,Suspicious transaction,1
+1093.76,Vendor_5,Legal,2023-09-07,1074,Suspicious transaction,1
+10000.0,Vendor_16,IT,2023-11-12,1025,Suspicious transaction,1
+1053.62,Vendor_5,HR,2023-07-21,1011,Suspicious transaction,1
+1546.53,Vendor_5,Legal,2023-10-04,1056,Suspicious transaction,1
+1016.42,Vendor_5,Legal,2023-09-03,1053,Suspicious transaction,1
+1137.33,Vendor_5,HR,2023-07-07,1005,Suspicious transaction,1
+408.47,Vendor_5,HR,2023-04-18,1068,Suspicious transaction,1
+756.55,Vendor_13,Legal,2023-07-02,1014,Suspicious transaction,1
+943.46,Vendor_5,Legal,2023-07-27,1029,Suspicious transaction,1
+1161.19,Vendor_5,HR,2023-04-27,1004,Suspicious transaction,1
+1127.73,Vendor_5,HR,2023-01-25,1065,Suspicious transaction,1
+1445.09,Vendor_5,Finance,2023-09-30,1096,Suspicious transaction,1
+708.26,Vendor_5,Legal,2023-02-02,1079,Suspicious transaction,1
+1668.42,Vendor_5,HR,2023-10-24,1043,Suspicious transaction,1
+831.27,Vendor_5,HR,2023-10-06,1074,Suspicious transaction,1
+10000.0,Vendor_18,Finance,2023-03-03,1022,Suspicious transaction,1
+10000.0,Vendor_1,Finance,2023-04-17,1011,Suspicious transaction,1
+496.02,Vendor_5,Legal,2023-07-15,1010,Suspicious transaction,1
+1008.73,Vendor_20,HR,2023-07-16,1059,Suspicious transaction,1
+1219.2,Vendor_5,HR,2023-08-12,1085,Suspicious transaction,1
+1060.76,Vendor_5,Legal,2023-05-18,1032,Suspicious transaction,1
+982.73,Vendor_5,HR,2023-10-16,1075,Suspicious transaction,1
+1019.54,Vendor_11,IT,2023-11-11,1052,Suspicious transaction,1
+1119.27,Vendor_17,Finance,2023-05-14,1056,Suspicious transaction,1
+5000.0,Vendor_11,IT,2023-06-16,1032,Suspicious transaction,1
+1016.65,Vendor_5,HR,2023-11-18,1074,Suspicious transaction,1
+1072.24,Vendor_5,Legal,2023-08-07,1050,Suspicious transaction,1
+5000.0,Vendor_4,Finance,2023-07-22,1096,Suspicious transaction,1
+20000.0,Vendor_10,Legal,2023-08-27,1016,Suspicious transaction,1
+20000.0,Vendor_11,HR,2023-03-21,1064,Suspicious transaction,1
+10000.0,Vendor_6,Admin,2023-07-07,1071,Suspicious transaction,1
+666.95,Vendor_3,Sales,2023-11-04,1060,Suspicious transaction,1
+661.15,Vendor_13,Marketing,2023-10-14,1043,Suspicious transaction,1
+1189.95,Vendor_5,Legal,2023-07-20,1038,Suspicious transaction,1
+667.23,Vendor_5,HR,2023-04-05,1015,Suspicious transaction,1
+786.2,Vendor_5,Legal,2023-08-13,1070,Suspicious transaction,1
+20000.0,Vendor_15,Legal,2023-08-29,1083,Suspicious transaction,1
+5000.0,Vendor_11,Sales,2023-05-02,1054,Suspicious transaction,1
+5000.0,Vendor_9,HR,2023-04-15,1056,Suspicious transaction,1
+20000.0,Vendor_7,Admin,2023-11-11,1089,Suspicious transaction,1
+10000.0,Vendor_12,Marketing,2023-08-29,1050,Suspicious transaction,1
+317.68,Vendor_5,HR,2023-06-21,1005,Suspicious transaction,1
+823.36,Vendor_1,Marketing,2023-04-02,1006,Suspicious transaction,1
+1288.29,Vendor_7,Legal,2023-05-27,1091,Suspicious transaction,1
+20000.0,Vendor_11,Admin,2023-08-17,1029,Suspicious transaction,1
+1089.22,Vendor_17,Marketing,2023-06-04,1040,Suspicious transaction,1
+1088.89,Vendor_5,HR,2023-05-21,1007,Suspicious transaction,1
+851.54,Vendor_10,HR,2023-04-15,1057,Suspicious transaction,1
+1014.79,Vendor_14,Sales,2023-07-08,1087,Suspicious transaction,1
+1177.05,Vendor_5,Legal,2023-10-18,1007,Suspicious transaction,1
+1102.64,Vendor_4,Finance,2023-10-07,1059,Suspicious transaction,1
+974.02,Vendor_5,HR,2023-09-04,1060,Suspicious transaction,1
+1316.04,Vendor_5,Legal,2023-02-24,1021,Suspicious transaction,1
+944.3,Vendor_5,HR,2023-03-24,1069,Suspicious transaction,1
+10000.0,Vendor_4,Finance,2023-10-07,1034,Suspicious transaction,1
+983.57,Vendor_17,Finance,2023-12-03,1027,Suspicious transaction,1
+1236.64,Vendor_5,Legal,2023-11-20,1069,Suspicious transaction,1
+899.04,Vendor_12,Marketing,2023-01-15,1041,Suspicious transaction,1
