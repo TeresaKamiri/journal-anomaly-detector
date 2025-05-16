@@ -1,6 +1,28 @@
 # Journal Anomaly Detector
 
-This project aims to detect anomalies in journal entries combining autoencoder-based unsupervised learning with explainability (SHAP) and benchmarking (Random Forest, KNN). The system identifies unusual patterns in journal entries, helping auditors spot potential errors, fraud, or irregularities.
+This project investigates the application of machine learning — particularly unsupervised deep learning — to detect anomalies in accounting journal entries, a key focus area in modern audit practices. The core objective is to support auditors in identifying unusual transactions that may indicate errors, fraud, or policy violations, without relying solely on pre-labeled fraud cases. This project aims to detect anomalies in journal entries combining autoencoder-based unsupervised learning with explainability (SHAP) and benchmarking (Random Forest, KNN). The system identifies unusual patterns in journal entries, helping auditors spot potential errors, fraud, or irregularities.
+
+### The Problem
+
+Auditors face the dual challenge of scale and subtlety. While traditional rule-based systems are effective for known red flags, they struggle with:
+- Evolving or hidden fraud patterns
+- Sparse and incomplete labeling
+- High-dimensional, structured journal data
+
+This makes the audit domain a poor fit for conventional supervised machine learning — but a strong candidate for anomaly detection.
+
+### Why Use an Autoencoder?
+
+Autoencoders are unsupervised neural networks that learn the structure of “normal” data and highlight deviations via reconstruction error. They're ideal when:
+- Labeled anomalies are rare or unavailable
+- You want to generalize beyond known fraud types
+- You care about internal consistency more than classification
+
+The project benchmarks this approach against K-Nearest Neighbors and Random Forest to show where and why it performs better — especially in unseen or structurally diverse datasets.
+
+### Explainability with SHAP
+
+To ensure flagged entries are understandable and actionable by auditors, the project uses SHAP (SHapley Additive exPlanations) to visualize which features contributed most to each anomaly. This bridges the gap between model behavior and audit logic — making outputs not only useful, but defensible.
 
 ## Project Structure
 
