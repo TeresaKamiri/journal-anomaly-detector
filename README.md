@@ -200,6 +200,8 @@ Optional: Retrain model on uploaded real data with checkbox toggle
 * `models/`: trained models + artifacts
 * Downloadable anomaly report via UI
 
+Note: Anomalies detected by the autoencoder are statistical outliers. They may be errors, policy violations, or benign exceptions — and require human review.
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for any improvements or fixes. If you have suggestions or issues, open an issue, and i will get back to you.
