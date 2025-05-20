@@ -194,11 +194,6 @@ if uploaded_file is not None:
                     _ = force_plot  # prevent IPython from trying to auto-display
                     st_shap(force_plot)
 
-                    # st_shap(shap.force_plot(
-                    #     base_val,
-                    #     shap_values[sample_index],
-                    #     features_only.iloc[sample_index]
-                    # ))
                     logging.info(f"Displayed SHAP force plot for index {sample_index}")
                 except Exception as e:
                     logging.error(f"SHAP force plot error: {e}")
