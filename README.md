@@ -137,17 +137,19 @@ If needed, run the preprocessing and exploratory analysis steps in `notebooks/ed
 
 ## Usage 
 
-### Generate Synthetic Data
+### Streamlit Dashboard
 
-You can generate synthetic journal entries using:
+To start the Streamlit dashboard, use the following command:
 
 ```bash
-python src/generate_synthetic_journals.py
+streamlit run dashboard/app.py
 ```
+
+This will launch a web application for visualizing detected anomalies, benchmarks, interacting with the dataset or retraining new datasets.
 
 ### Training the Model
 
-1. Run the `train_autoencoder.py` script to train the autoencoder model:
+1. Click on the dashboard retrain autoencoder on the new dataset or Run the `train_autoencoder.py` script to train the autoencoder model:
 
    ```bash
    python src/train_autoencoder.py
@@ -179,16 +181,13 @@ KNN/RF/Autoencoder comparison, run:
 ```bash
 python src/explain_anomalies.py
 ```
+### Generate Synthetic Data
 
-### Streamlit Dashboard
-
-To start the Streamlit dashboard, use the following command:
+You can generate synthetic journal entries using:
 
 ```bash
-streamlit run dashboard/app.py
+python src/generate_synthetic_journals.py
 ```
-
-This will launch a web application for visualizing detected anomalies, benchmarks, interacting with the dataset or retraining new datasets.
 
 #### ✅ Hybrid Strategy
 Default: Uses pretrained model on synthetic baseline
