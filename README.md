@@ -201,6 +201,12 @@ Optional: Retrain model on uploaded real data with checkbox toggle
 * Downloadable anomaly report via UI
 
 Note: Anomalies detected by the autoencoder are statistical outliers. They may be errors, policy violations, or benign exceptions — and require human review.
+They are identified based on high reconstruction error — meaning the model considers them statistically unusual compared to normal historical patterns.
+These may include:
+   Unusual transaction amounts
+   Entries posted on weekends
+   Duplicate vendor or account combinations
+   Legitimate exceptions
 
 ## Contributing
 
