@@ -85,7 +85,12 @@ You need the following libraries and tools to run this project:
 - Numpy
 - Matplotlib
 - Streamlit
-- Other dependencies listed in `requirements.txt` (if provided)
+- Shap
+- Joblib
+- Collection
+- ipython
+- Seaborn
+- Other dependencies listed in `requirements.txt` 
 
 ## Setup Instructions
 
