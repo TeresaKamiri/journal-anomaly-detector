@@ -99,23 +99,6 @@ if uploaded_file is not None:
     detected_df["confidence"] = 1.0 - detected_df["anomaly_score"]
     st.success(f"Anomalies detected using threshold: {threshold} percentile")
 
-    st.markdown("""
-        🚨 **Important Note on Anomalies**
-
-        Entries flagged as anomalies by this system are *not confirmed frauds*.
-
-        They are identified based on high reconstruction error — meaning the model considers them statistically unusual compared to normal historical patterns.
-
-        These may include:
-        - Unusual transaction amounts
-        - Entries posted on weekends
-        - Duplicate vendor or account combinations
-        - Legitimate exceptions
-
-        **Interpretation Tip:** Treat flagged entries as *suspicious* or *requiring audit review* — not as automatic indicators of fraud.
-        """)
-
-
     if has_labels:
         from sklearn.metrics import classification_report
         y_true = df["label"].astype(int)
